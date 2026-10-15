@@ -42,6 +42,49 @@ With an 11-item vault the idle gap was 1.08% vs 0.23%. The Node figures grow
 with vault size; this server's idle cost doesn't. Most of the Go container's
 remaining idle CPU is Docker starting the `healthcheck` process every 10 s.
 
+### Benefits
+
+* About 11x less idle CPU, and the gap grows with vault size.
+* About 10x less memory (15 MiB vs 169 MiB) and a 20 MB image instead of 240 MB.
+* Ready in a quarter of a second instead of 12 seconds, so restarts and
+  healthchecks recover almost immediately.
+* No disk writes during normal operation. Vault secrets live only in
+  memory and are dropped on `POST /lock` or shutdown.
+* A single static binary on `distroless/static` with no shell, Node.js or
+  libc, which shrinks the attack surface.
+* Same API, same environment variables and same JSON output, so switching
+  is a one-line image change.
+
+## How it was created
+
+1. **Reverse engineering the original image.** The image's filesystem was
+   exported and the `bw` binary was identified as a `yao-pkg` bundle of the
+   Node.js CLI. Its embedded virtual filesystem was unpacked to get `bw.js`
+   and its source map. The source map contained all 1,167 original
+   TypeScript files of CLI 2026.9.1. These were analyzed with
+   [REA](https://www.npmjs.com/package/rea-agents) (static analysis only)
+   to locate the `bw serve` routes, the command implementations, the
+   storage layer and the crypto paths, and to find the CPU hot spots
+   listed above.
+2. **Reimplementation from the observed behavior.** Each route's handling
+   (option parsing, validation messages, permission and policy checks,
+   search, and response shapes) was ported to Go. The Bitwarden client
+   cryptography (PBKDF2/Argon2id, HKDF key stretching, AES-CBC-HMAC
+   EncStrings, RSA-OAEP key wrapping, per-item cipher keys, encrypted
+   attachments and Sends) was implemented on the Go standard library and
+   `golang.org/x/crypto`.
+3. **Differential testing against the original.** The original image and
+   this server were run side by side against the same Vaultwarden account,
+   and 143 requests (reads, writes and error cases) were diffed, including
+   JSON key order. All differences were fixed except three that are bugs in
+   the original. Data written by this server was read back by the official
+   CLI to confirm compatibility.
+4. **Regression tests and benchmarks.** The captured reference output is
+   checked in as a golden test. Crypto is tested against independently
+   computed vectors, TOTP against RFC 6238, and concurrency with the race
+   detector. CPU and memory were measured with both containers running
+   their normal healthcheck and sync loops.
+
 ## Getting started
 
 1. [Get your personal API key](https://bitwarden.com/help/personal-api-key/)
