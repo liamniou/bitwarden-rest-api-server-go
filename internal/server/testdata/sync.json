@@ -1,0 +1,1812 @@
+{
+ "ciphers": [
+  {
+   "archivedDate": null,
+   "attachments": null,
+   "bankAccount": null,
+   "card": null,
+   "collectionIds": [
+    "6da492b0-41cd-45b6-82e3-40ccfeb2da20",
+    "a0c19d45-a156-4fa4-b0da-77f89749592b"
+   ],
+   "creationDate": "2026-10-15T08:34:21.269435Z",
+   "deletedDate": null,
+   "driversLicense": null,
+   "edit": true,
+   "favorite": false,
+   "fields": [],
+   "folderId": null,
+   "id": "1d885659-6088-4aed-9616-0d902c4532c9",
+   "identity": null,
+   "key": null,
+   "login": {
+    "autofillOnPageLoad": null,
+    "password": "2.sd2uzd3KnCvvucU2Iz3Z8g==|cBSZP1VNE23ZSjomch8NUQ==|9ulyth4KHNaTmyeosIGLS+DdXbroGSCg5GM5leTyTMY=",
+    "passwordRevisionDate": null,
+    "totp": null,
+    "uri": null,
+    "uris": [],
+    "username": "2.vgtPxOjo0tOfMAVYdPZrnw==|fZhF/p48RE1LcK1ek1hgyQ==|Uqw89QLe6S+K27Kkv5sfVv9ekzyFtLT6dFRqaaltiaI="
+   },
+   "name": "2.oyAIqZktyX+MpTi3QiDQ1Q==|VMwZxRDnf9+2LXbPG3VpOQ==|UXEo2BmxiecuIs8C4pHBfwxDg3zNSoNVgS/TCf9OF3I=",
+   "notes": null,
+   "object": "cipherDetails",
+   "organizationId": "14a866fa-048c-426c-af8e-804c44df05c6",
+   "organizationUseTotp": true,
+   "passport": null,
+   "passwordHistory": [],
+   "permissions": {
+    "delete": true,
+    "restore": true
+   },
+   "reprompt": 0,
+   "revisionDate": "2026-10-15T08:34:21.270403Z",
+   "secureNote": null,
+   "sshKey": null,
+   "type": 1,
+   "viewPassword": true
+  },
+  {
+   "archivedDate": null,
+   "attachments": null,
+   "bankAccount": null,
+   "card": {
+    "brand": "2.eA+EqjnX72LDzBC5CKrz0w==|7qC3bL9B8NLxuo2aD2OUYg==|IRJeYLTk4V+sTIwih1Bdg6x0XZUSs8AQAYffxqGkues=",
+    "cardholderName": "2.ZSAZPFw2aqzGg/1MKdRjtw==|b3R0MiBVIh2amTUSvt873w==|EPeTzIUAn+nXQGd2aF8T0h8yJYa7PuT9o1q7o/D5FNc=",
+    "code": "2.pdYUKLpDzSHlz8xmQm4owA==|MJU9h7osX8RwO/iVz8kdLA==|mpRC5voda+v/3C+NaQs6nlDf1luBmu8NI5J+ac4Tqbs=",
+    "expMonth": "2.mScJbzYkYDuBPysuZa+f7g==|9rosrWxrhrKFSN7v/2IEPA==|AG14UWlG3cae3xkg5QHi4aVaR6bIxvDps1miABwnr6o=",
+    "expYear": "2.WGLUJzGU4c8emGDLpwcdqg==|YX8saQulqZYYMwZSltCfpA==|g1R0zjnP1vm1FPOUoSc/REMj3+U1nmtuDQzaacrSwdo=",
+    "number": "2.FymVIJkwJ46CsLM6aFvZNA==|MI9w7rM1K0ugby4dyx0/B/a0MEBJjzSRsBIeGBas7LM=|Ta/zpnf8Vsne5OSBzD8c0GxhecmmKBXBE61KmBAoJlI="
+   },
+   "collectionIds": [],
+   "creationDate": "2026-10-15T08:29:31.433268Z",
+   "deletedDate": null,
+   "driversLicense": null,
+   "edit": true,
+   "favorite": false,
+   "fields": [],
+   "folderId": null,
+   "id": "1e69773f-7b75-46a1-bc45-b1cc39a79391",
+   "identity": null,
+   "key": null,
+   "login": null,
+   "name": "2.OWKPaU52PJ/7AftcGqwTcw==|Bu0pEl2AabpYSSloF/1OxA==|Pww9UywNOcLD6jlXf/TyH28g3D8oW5hILIn/g117Jh4=",
+   "notes": null,
+   "object": "cipherDetails",
+   "organizationId": null,
+   "organizationUseTotp": true,
+   "passport": null,
+   "passwordHistory": [],
+   "permissions": {
+    "delete": true,
+    "restore": true
+   },
+   "reprompt": 0,
+   "revisionDate": "2026-10-15T08:29:31.433349Z",
+   "secureNote": null,
+   "sshKey": null,
+   "type": 3,
+   "viewPassword": true
+  },
+  {
+   "archivedDate": null,
+   "attachments": null,
+   "bankAccount": null,
+   "card": null,
+   "collectionIds": [],
+   "creationDate": "2026-10-15T08:34:21.201376Z",
+   "deletedDate": null,
+   "driversLicense": null,
+   "edit": true,
+   "favorite": false,
+   "fields": [],
+   "folderId": null,
+   "id": "5df2ba48-d2d1-45df-b7c3-7c539eec25ea",
+   "identity": {
+    "address1": null,
+    "address2": null,
+    "address3": "2.k0BXq4brIt3SqKPpUD7QAA==|Nni/AN/1GxezW/vkrIg04Q==|IF4J3kjzww4XScEtQGLnK0W/BiXCgUsmgKKsr0y4cw0=",
+    "city": null,
+    "company": null,
+    "country": null,
+    "email": null,
+    "firstName": "2.+FM353JhAxNgUWrmC9xjPA==|hoOUb2wfJ5RSa7kHaZ3hhw==|DkZMjPgVqxlRYxFsc6WL1S2TR8l420IvHI51hsV6BPY=",
+    "lastName": "2.LAFQ1RsbFtXn4lEcB3OJ7g==|o3EAi1RWgp5H0dS6doVF9w==|PSjn6VAeUmYi3UmEUwLiHUADXOk3yoMSfqh/+tsaaMY=",
+    "licenseNumber": null,
+    "middleName": null,
+    "passportNumber": null,
+    "phone": null,
+    "postalCode": null,
+    "ssn": null,
+    "state": null,
+    "title": null,
+    "username": null
+   },
+   "key": null,
+   "login": null,
+   "name": "2.TvVlqm/GUX+dh5n+zQPUEA==|mG3tbCSwQX7DWghgxdVkZQ==|bGU6YgrTvA6Pl2Uxw0ENjVJU1zuKh5NUB9600ahn2/E=",
+   "notes": null,
+   "object": "cipherDetails",
+   "organizationId": null,
+   "organizationUseTotp": true,
+   "passport": null,
+   "passwordHistory": [],
+   "permissions": {
+    "delete": true,
+    "restore": true
+   },
+   "reprompt": 0,
+   "revisionDate": "2026-10-15T08:34:21.201556Z",
+   "secureNote": null,
+   "sshKey": null,
+   "type": 4,
+   "viewPassword": true
+  },
+  {
+   "archivedDate": null,
+   "attachments": [
+    {
+     "fileName": "2.JNtnhbkUy6zfnE+wOncYaw==|og1CM4lFHLGzi6ro9zH0Mg==|czXx39lebF0u5wNXNOY1qpZ1EkGA3LRUpL3SiVCrJG8=",
+     "id": "47fdc525fe5c88cbd675",
+     "key": "2.rYGnRSs6nad0WEPzrGuNlw==|8Fj3ak1A/ymZaeFFORs/nlbuNC0MUHhGNPBO1CBJXMCU2U0W0HXLQw5vQi8VjW1BSnLDXeXNhVaXelr/Lq0tRp1HG/bBLnFd0CNijnC+UWY=|FibTo2CMyMwHGracLIirUTbTW3vLroJNJEXo4bDa/34=",
+     "object": "attachment",
+     "size": "81",
+     "sizeName": "81.00 bytes",
+     "url": "http://127.0.0.1:8800/attachments/7ef9bcff-93f8-4962-8e57-b677c36014ba/47fdc525fe5c88cbd675?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJuYmYiOjE3OTIwNTM2NTQsImV4cCI6MTc5MjA1MzcxNCwiaXNzIjoiaHR0cDovL2xvY2FsaG9zdHxmaWxlX2Rvd25sb2FkIiwic3ViIjoiN2VmOWJjZmYtOTNmOC00OTYyLThlNTctYjY3N2MzNjAxNGJhIiwiZmlsZV9pZCI6IjQ3ZmRjNTI1ZmU1Yzg4Y2JkNjc1In0.DCdhQLwWl1tcun_6mZ8RkQt_Iu6KIZGDN_Bpz3sJ_qOWbSWOz8e-4y-e442-PUutYJ0Rok9tO6VquW8AjXhAn0cRQ53fl7jqJ7WblNAa0rZgWD4aySY6NTXl6G12U0VzOXdtNX-Fr4YagcEWncD5dE1qXDzNLh1dCv_Xvr4ZBAHAhkpb68Zmnoq28bfg5xDpc9fp3QDEqIu5ob3kUs54Lh-zMTN11MpcxwiyCThOad_x1E5ii-GJzO5FmUGL1nROwPib9xJlFnWevmOSXJBAKKgHGYZcT2dULV97HViA30vcGjacJlIUx8R0aBgfIx_FEJKdYOifj630IzfA6XCI9Q"
+    }
+   ],
+   "bankAccount": null,
+   "card": null,
+   "collectionIds": [],
+   "creationDate": "2026-10-15T08:29:31.286756Z",
+   "deletedDate": null,
+   "driversLicense": null,
+   "edit": true,
+   "favorite": true,
+   "fields": [
+    {
+     "name": "2.pbCo116zkFnw3Ex0KX/k4g==|uPuzXoZq7GAv5Wflvir81A==|mo0hMxKon4G3uRPxWD449YRvqtbtOC+xFAW8TQ2qCAs=",
+     "type": 1,
+     "value": "2.EQfu19H647eVKAmiijXpzA==|tOpe2uTvemlSXsXWWgqKQg==|mxpEl76VnK14DCRHmTD2Wr6HuOgxJUzb8rsIz2Lqn9M="
+    },
+    {
+     "name": "2.KD57MKCOnXmoKOINN3pxvg==|xIK9TbPwXHvHu7M3rSfCIQ==|VNeG3p/MsrWh60gz3grXP6YMMB2ZNbJ/G6+jQT2l8Cs=",
+     "type": 0,
+     "value": "2.7WBfc5NItX8PaO8trKxmWA==|Y3m0tAoiw6IAp9c9LVuSbw==|A96tIQwz6yMYCcu5svk+/QJa03YmLz/seczZ/WruZdU="
+    },
+    {
+     "name": "2.AttINhXwk3EYj9uroDJaNg==|AzAXQBkr7+3hfZs/aDV5UQ==|FBz+Z0K0/dLdCmTFsLE3fsEgxSMpiDuwWXnTmaOXppw=",
+     "type": 2,
+     "value": "2.i1Q9u2dFtTyhtp7vrJUIwA==|GL6ZRZU8F3v4rofWGDXajw==|poSnl9+fEzNe7bRoB+kXVNYeJGz0Nt84SMIIs8Xn1Bw="
+    }
+   ],
+   "folderId": "b8a385df-e45d-4fc5-b86e-e009fe719b42",
+   "id": "7ef9bcff-93f8-4962-8e57-b677c36014ba",
+   "identity": null,
+   "key": null,
+   "login": {
+    "password": "2.fyd+HjGqP72wrLJeJrWkGg==|Uwm7XeDLt4wfya26OVcg6Q==|P0iDpHP6CC3rzOupAd1jhtfQX5ibNGPhxzNGcXAeM/M=",
+    "passwordRevisionDate": "2026-10-15T08:29:32.237000Z",
+    "totp": "2.lG42P4Z7AQY01K4efKAmPw==|YV/F9VP/uNL2KpAGfDxQXGhnyEAUSRDGqmCSCEFuGvg=|oNaZXc6WWvva6AzxUFmJz4WT9WqRfmtyP5U2wqqBS+k=",
+    "uri": "2.0HjAH1hAVa1NoIasGbJpBw==|H2JQI4TL8bT+ApwcDMqyzRSitgyf7CUItTEfKUoOM94=|J60qnbvqp2ZK68OzFo8G+t5aqUCWqXAcEszifF888vQ=",
+    "uris": [
+     {
+      "match": null,
+      "uri": "2.0HjAH1hAVa1NoIasGbJpBw==|H2JQI4TL8bT+ApwcDMqyzRSitgyf7CUItTEfKUoOM94=|J60qnbvqp2ZK68OzFo8G+t5aqUCWqXAcEszifF888vQ=",
+      "uriChecksum": "2.e5haHyeVulYH5xGR3MSI/A==|KQSHSLtPWnG54Ny+Vfd7IGwGpV6pbmt6h1umKZoWMDHYKRpn4iNQTrl5pSccPKYO|PVGda29aPevVLr3ylOOORNAqI7dQiXpKW1MCNAgw6BE="
+     },
+     {
+      "match": 3,
+      "uri": "2.mEDJKsv09hbgJflJfyklRA==|Z3B45ClzWliAPeSif3tgWyyB2RFX8zdwy+xlM9gkkik=|MIJyIstnJbBh3VE4t3kjdRMFs6CX2Iu8YvlNFE/nT68=",
+      "uriChecksum": "2.Dcb3dHzw9oWBJwMmCmCa9w==|oauR0AKGkURA4WXFlqZ4GfogZ+2rSRLTMRDXEdEiWAuRBrbU8IkcidhHOB6Au+yo|qmiCR2PkidDJwooVkNPs3hKW5LgdI38rfhYZAvVH2vQ="
+     }
+    ],
+    "username": "2.XHYy+rjkebsQRldI2pImGw==|bmQP99nQnzGKYcDwNguj8A==|2OIPJ9fy0Do9mNeeOk4BcAGbyxk9VJVMVyFKRMf2gSk="
+   },
+   "name": "2.bmjKgw66YzlL0hsdyFwM4g==|OAOYlj4f4Rl2n5VP12YpPA==|VFnXji0Fml6mKyMCSLwgYsMxsibcDT3W/BjZzuYYm/U=",
+   "notes": "2.pHZyIeGuHiep3lKenI29qA==|jiFmmXofuYq4iA9GOm3KdliM0/SE1m9QEr7NxTw9tEU=|PAoU0YAqvQLsl+26tYi70Xt/JkR0POauXqKF/rUj5xs=",
+   "object": "cipherDetails",
+   "organizationId": null,
+   "organizationUseTotp": true,
+   "passport": null,
+   "passwordHistory": [
+    {
+     "lastUsedDate": "2026-10-15T08:29:32.237000Z",
+     "password": "2.uQ25qfBqwQUG5yWFHearVA==|Las0i0ndPzek2jFeK4SlHg==|M21L44F4ODZbqU5P4M/BTW5imGboFQTKCCmyrv8wllc="
+    },
+    {
+     "lastUsedDate": "2026-10-15T08:29:32.237000Z",
+     "password": "2.hkLq+O+Pp/UUe9YXKuM01Q==|KesTRluGoX/B1674QNadrw==|iThTnDwxujbpJqFhoa1R1qfFB+PEMhb3ERVtbi6BUYU="
+    }
+   ],
+   "permissions": {
+    "delete": true,
+    "restore": true
+   },
+   "reprompt": 0,
+   "revisionDate": "2026-10-15T08:29:32.240868Z",
+   "secureNote": null,
+   "sshKey": null,
+   "type": 1,
+   "viewPassword": true
+  },
+  {
+   "archivedDate": null,
+   "attachments": null,
+   "bankAccount": null,
+   "card": null,
+   "collectionIds": [],
+   "creationDate": "2026-10-15T08:29:31.848203Z",
+   "deletedDate": "2026-10-15T08:29:32.026609Z",
+   "driversLicense": null,
+   "edit": true,
+   "favorite": false,
+   "fields": [],
+   "folderId": null,
+   "id": "829738e7-29c8-429e-b132-7df7de7f54ee",
+   "identity": null,
+   "key": null,
+   "login": {
+    "password": "2.zJI4/Eh44ipZInST1pb3/w==|iCPzr9w8Swgh+/NV/1rxAA==|emPszn93p1b+Tls8XmKbnwq/OtMy+Nr4YUov0nbFv5o=",
+    "passwordRevisionDate": null,
+    "totp": null,
+    "uri": null,
+    "uris": [],
+    "username": "2.MB43KvYbmjSJsyIf8CGsdg==|lmxk1OLJQnCheFgaPSh7qA==|hv5cIW4eLVPLGi39vt3qR2txvNpu5Yz5r5UTBqeoCqY="
+   },
+   "name": "2.qKG4RO9srvvUOr9yuPQAjQ==|1eAg6QBm+GQyXFI8pk0NJg==|aYpjvrBKpaYoEWRQdndgiwYFdMfwEUmFPr3Fgk3j3b8=",
+   "notes": null,
+   "object": "cipherDetails",
+   "organizationId": null,
+   "organizationUseTotp": true,
+   "passport": null,
+   "passwordHistory": [],
+   "permissions": {
+    "delete": true,
+    "restore": true
+   },
+   "reprompt": 0,
+   "revisionDate": "2026-10-15T08:29:32.026748Z",
+   "secureNote": null,
+   "sshKey": null,
+   "type": 1,
+   "viewPassword": true
+  },
+  {
+   "archivedDate": null,
+   "attachments": null,
+   "bankAccount": null,
+   "card": null,
+   "collectionIds": [],
+   "creationDate": "2026-10-15T08:34:21.234857Z",
+   "deletedDate": null,
+   "driversLicense": null,
+   "edit": true,
+   "favorite": false,
+   "fields": [],
+   "folderId": null,
+   "id": "8ba40b03-6e70-49fa-b483-88b1fb10de69",
+   "identity": null,
+   "key": null,
+   "login": null,
+   "name": "2.oX7fDyOlI9rnugCAOlq45g==|rsQ3gR0u7JYR5WhUeEhZGA==|MTAzOiUGMdiyYxLp2rRosz7fWq0JvFB1hlKS9NtgncM=",
+   "notes": "2.1G4bgmkgF3oII7w3mzgEsA==|xbXMHEhF8Us6/dZrsiT5Tw==|myWXtiTI/ruUA/LZ9p/G2C712pCuR0jfjFiBUQz9alw=",
+   "object": "cipherDetails",
+   "organizationId": null,
+   "organizationUseTotp": true,
+   "passport": null,
+   "passwordHistory": [],
+   "permissions": {
+    "delete": true,
+    "restore": true
+   },
+   "reprompt": 1,
+   "revisionDate": "2026-10-15T08:35:12.959963Z",
+   "secureNote": {
+    "type": 0
+   },
+   "sshKey": null,
+   "type": 2,
+   "viewPassword": true
+  },
+  {
+   "archivedDate": null,
+   "attachments": null,
+   "bankAccount": null,
+   "card": null,
+   "collectionIds": [],
+   "creationDate": "2026-10-15T08:29:31.563911Z",
+   "deletedDate": null,
+   "driversLicense": null,
+   "edit": true,
+   "favorite": false,
+   "fields": [],
+   "folderId": null,
+   "id": "a89c8f76-a567-437f-87a7-1b00c1fcb61f",
+   "identity": {
+    "address1": null,
+    "address2": null,
+    "address3": null,
+    "city": null,
+    "company": null,
+    "country": null,
+    "email": "2.FlA4BneFs8itFrjLJV3dtA==|K0l79WwHkpnJ+mWJIqYfkg==|e0jUFD0go20S9UF0zkHiiguYl+UabG7uU9f5u0mKvoo=",
+    "firstName": "2.nVZRdk6/lPqJ34wNQnMB5w==|nTvLk+Hdu7swk/ML50LRKA==|vabOdLZeEBk2Prmjo9H60Q3AKkJcgp33+xZ1/BvTW0c=",
+    "lastName": "2.AWN3CMR/5f/f4C+f0wz+7g==|Wfyqu/WJIlQuHhxR4I+lXg==|dMdYQN7YxZi8qYF0Y3a6GqCuy3obdTFRipIrbmPRadc=",
+    "licenseNumber": null,
+    "middleName": null,
+    "passportNumber": null,
+    "phone": null,
+    "postalCode": null,
+    "ssn": "2.2mdR9XE5I1bzHOSSEAV4yg==|iTTGRW08TIR7E0gsqBQn3g==|Y6rIwWGg3wluwYxtAr1koCPLmsOhk0z8u9Mthw+oNdc=",
+    "state": null,
+    "title": "2.Ls/BKYj8bDWqMJfVnZXlog==|WThTjUylqZgKVo/RHvZQJw==|JOBGKLEb5ivu7YuoFEUex4KwP/eXJWy/dRsMbhGaFbc=",
+    "username": null
+   },
+   "key": null,
+   "login": null,
+   "name": "2.YGpHeYgRzFJSgojwdwKOgw==|20i4J0rVA2u5bF5BhH+j2A==|HqiNAnU/vGls7edXbaaio2rFz8retXBV658xy6vDAUo=",
+   "notes": null,
+   "object": "cipherDetails",
+   "organizationId": null,
+   "organizationUseTotp": true,
+   "passport": null,
+   "passwordHistory": [],
+   "permissions": {
+    "delete": true,
+    "restore": true
+   },
+   "reprompt": 0,
+   "revisionDate": "2026-10-15T08:29:31.563977Z",
+   "secureNote": null,
+   "sshKey": null,
+   "type": 4,
+   "viewPassword": true
+  },
+  {
+   "archivedDate": null,
+   "attachments": null,
+   "bankAccount": null,
+   "card": null,
+   "collectionIds": [],
+   "creationDate": "2026-10-15T08:29:31.696826Z",
+   "deletedDate": null,
+   "driversLicense": null,
+   "edit": true,
+   "favorite": false,
+   "fields": [],
+   "folderId": null,
+   "id": "be1b3742-3e4e-483a-a1b0-6ec40cc08c33",
+   "identity": null,
+   "key": null,
+   "login": null,
+   "name": "2.8y3vewM48SC1eE0pMw+GHQ==|p8vTyeXOd5mn5Bz4nJ31cw==|doxxYP+U9H1RPixriYspuyYLy65F1OAbHltBp0xq1gU=",
+   "notes": "2.SzzHT4IivYZzmjI4cme4oA==|XqtS1zM7O/K1ALOGJpK0FlHHzVjJfdvCAvD7kHa62L8=|/sVZce6lAAMZgTBDolT51IbAJQpKi+mIblTT4l5SmJs=",
+   "object": "cipherDetails",
+   "organizationId": null,
+   "organizationUseTotp": true,
+   "passport": null,
+   "passwordHistory": [],
+   "permissions": {
+    "delete": true,
+    "restore": true
+   },
+   "reprompt": 0,
+   "revisionDate": "2026-10-15T08:29:31.696955Z",
+   "secureNote": {
+    "type": 0
+   },
+   "sshKey": null,
+   "type": 2,
+   "viewPassword": true
+  },
+  {
+   "archivedDate": null,
+   "attachments": null,
+   "bankAccount": null,
+   "card": null,
+   "collectionIds": [
+    "a0c19d45-a156-4fa4-b0da-77f89749592b"
+   ],
+   "creationDate": "2026-10-15T08:34:21.139648Z",
+   "deletedDate": null,
+   "driversLicense": null,
+   "edit": true,
+   "favorite": true,
+   "fields": [
+    {
+     "linkedId": null,
+     "name": "2.LsvIbsZkg27eLoGOKaS9Lg==|lMmE7pdNYttDKJXmKOJwZA==|9dtegk8S9BGY6MjeE6PHyE1AIkIt7D3gENib4spdiP0=",
+     "type": 1,
+     "value": "2.0XF/C10O79ev7mXG0yOg5g==|yMb4SkZ0skKrnQLxHkhjDQ==|4ThMnLUuAjf8zKBVa5nFbhVTmTt5d+sltdW65GzhNIs="
+    },
+    {
+     "linkedId": 100,
+     "name": "2.JfiW21Qw14c0b23gA6TWkA==|jCw8AX0cmcZWoLJIoLRrgg==|+lvagQffd8SwOKkhWound9EgPzkTk8chR8D92UqoQ6A=",
+     "type": 3,
+     "value": null
+    }
+   ],
+   "folderId": "e8a040bb-82cc-463f-b9f9-caa2d0b35540",
+   "id": "cddede3b-1782-4961-8b9a-d4a1f8ffc745",
+   "identity": null,
+   "key": "2.+wnQYKh8qhMqaTxo8IJJGA==|qnt7fA9XFZXJnvQMpeeW3eJ7dJdhB07mNWPqiDK6I5oNGR3xthwTkNzlBvN2oRIIVZkU0j1pCgVLEygHXjjEfQfTCYWVEqrzUpphFGVjhJM=|wHiuUJc4nOWlMOr3ZvZEXLuXCMzFtEMDrKZ2mcAVsIU=",
+   "login": {
+    "autofillOnPageLoad": null,
+    "password": "2.5GBVKohUHLQiv+18ydaxWA==|BoFy2Sbs4Zanqz86GQyFvw==|gnNbAAOGCbCpvJjlA06RL/ZydK0PdV5rnMRdvOZC0d4=",
+    "passwordRevisionDate": "2026-10-15T08:34:21.429000Z",
+    "totp": "2.Uew8SsqiIsIaEOW0DjRKEw==|iq9F/n79u/ms7WgMCN/2CG2v+Ahxz3p6QW3D+cf1dZemzvIkROtjKFBxWKdd2ELDqpZYQhwDL1731JJfvD12KA==|9kK3PNbWD6mL1ASBKkR4MHhvj+UP8T++HZCpy9uuQQc=",
+    "uri": "2.8QIqCo1Vj/x7mlEwPCdnlA==|faJUTnvZtbu+4uUhA1Xv5w==|seFgzS0TPlk9O2Y+NFuVgqEvJrAI7zE8uECLpKUuDmw=",
+    "uris": [
+     {
+      "match": 1,
+      "uri": "2.8QIqCo1Vj/x7mlEwPCdnlA==|faJUTnvZtbu+4uUhA1Xv5w==|seFgzS0TPlk9O2Y+NFuVgqEvJrAI7zE8uECLpKUuDmw=",
+      "uriChecksum": "2.4AHQRRJq9Xg9HmAb9MESjw==|4FzanD+LAEf5ufv0YjQWWV47zQ8hlC2v+SqkueLYljGCKYljNQYIoX+vjWijdDJr|vHnQP0Awunf+u29w5x5mCUeSr1VbCjCJLICUCka/XKk="
+     }
+    ],
+    "username": "2.gYJmuzYt8RkgHtd1EY3VHA==|gpFN/DGMjhUf+Gftc/63tQ==|DtFr3Lo6cwsh/RrXCWnwm2OHKGOouIhLIEI3R3NoJC4="
+   },
+   "name": "2.zhPJgq5fuQmafggxL02jTg==|gLaXEnGN1C6vvOciwZzpVQ==|+6bxRxgq1DHdeJkTTOqSLomcn1+bYaZYujJKvPDJ+BY=",
+   "notes": "2.FpiB0PG7X9f6PidlcuMtHw==|BX1n1n6Q3fzYWlNacEfRlQ==|ayih3VeBlM45vcDex5rKWcZTvXOISlz1rXAGqCCAuYg=",
+   "object": "cipherDetails",
+   "organizationId": "14a866fa-048c-426c-af8e-804c44df05c6",
+   "organizationUseTotp": true,
+   "passport": null,
+   "passwordHistory": [
+    {
+     "lastUsedDate": "2026-10-15T08:34:21.429000Z",
+     "password": "2.dcBgfUHsGw3iFUo7v6NDuw==|U/xOoE6HRZ6tTa7ghl/tCA==|gAEIuWXU5bMDCnIE2kbb17ay507mNLGhd8vw0hZx3e4="
+    },
+    {
+     "lastUsedDate": "2026-10-15T08:34:21.429000Z",
+     "password": "2.dZgx9e5+nvIB4j1UO1CCPA==|AOC6WlSBXDsZo/E04r24Zw==|ZxuAfq4pYlN53t3GfHeDtOvi7jQdVWHnOGpvPUrCHj4="
+    }
+   ],
+   "permissions": {
+    "delete": true,
+    "restore": true
+   },
+   "reprompt": 0,
+   "revisionDate": "2026-10-15T08:35:12.768206Z",
+   "secureNote": null,
+   "sshKey": null,
+   "type": 1,
+   "viewPassword": true
+  },
+  {
+   "archivedDate": null,
+   "attachments": null,
+   "bankAccount": null,
+   "card": null,
+   "collectionIds": [],
+   "creationDate": "2026-10-15T08:30:02.279081Z",
+   "deletedDate": null,
+   "driversLicense": null,
+   "edit": true,
+   "favorite": false,
+   "fields": [],
+   "folderId": null,
+   "id": "d45ba584-247a-4f48-b20a-be186e8cc2e5",
+   "identity": null,
+   "key": null,
+   "login": null,
+   "name": "2.selZMSKr1t9+o0SjRogpRA==|r0KUOzMmNSt08FYbhfcSaQ==|bvXRSCq9kd0pHYCkN+JqrZ4EPc89xoTrZUSWIie+Coc=",
+   "notes": null,
+   "object": "cipherDetails",
+   "organizationId": null,
+   "organizationUseTotp": true,
+   "passport": null,
+   "passwordHistory": [],
+   "permissions": {
+    "delete": true,
+    "restore": true
+   },
+   "reprompt": 0,
+   "revisionDate": "2026-10-15T08:30:02.279423Z",
+   "secureNote": null,
+   "sshKey": {
+    "keyFingerprint": "2.PK8p/98HwmEZCF7KbU0Q8w==|E1zik11se38utSehN4Ko0A==|pwDKxBd5Ot464msEz2oIfWXvUt1vJpxp1zQB30ZQ6QY=",
+    "privateKey": "2.OFdMtyUVg0GLktu36e4H4g==|VtNBe/NZYXXEuDQWv+bZKaAZz1ozry1YfoOiOSTBvjwo+6X3axd9mctgSpHpoE5+db4cj/VqpnV0UFbQSfqyKL+sG6RB8/DtVuBZtnBIKME=|8mp704Ri7bd6WM+yNqdxp6NTrqhyhj+IACuPqaXREYc=",
+    "publicKey": "2.HB7yEXOFCHgElDRZVOI5BA==|zjke+T90YjG6i6cAM+oeULS3HiJQtmSJMa4tLL6LCGs=|o2IMC2FSZjzeR9HIRlRnslPe2zvFk8j4K4V0sTjZhCc="
+   },
+   "type": 5,
+   "viewPassword": true
+  },
+  {
+   "archivedDate": "2026-10-15T08:35:13.018756Z",
+   "attachments": null,
+   "bankAccount": null,
+   "card": {
+    "brand": null,
+    "cardholderName": "2.WC9CebJ92p7SeIPrO2YRew==|7VcVYc2bLSDz093jgju9Cg==|0q2iLM1Ut+DTTZXhtAhHsnYf03IK2sKgoI5itQDb5Rw=",
+    "code": "2.S0xf08BOw4IMfW+rSC6+dQ==|xrfjr3NVN++nugJg2OW0CQ==|HikD9S3YmeaF2VGambhXbWlM7bZivS2Oq7OjjPAD9kI=",
+    "expMonth": null,
+    "expYear": null,
+    "number": "2./TKkbAm+i5HEymCDw0/oUg==|bkJA2dyhlLZd/2toE6BSuQ==|cDCGSC/GP48WG0VLuU1iW2rJeqXckYGlAfmMYnQVJO4="
+   },
+   "collectionIds": [],
+   "creationDate": "2026-10-15T08:34:21.169260Z",
+   "deletedDate": null,
+   "driversLicense": null,
+   "edit": true,
+   "favorite": false,
+   "fields": [],
+   "folderId": null,
+   "id": "f59750f0-ba53-425d-b7a8-7029ad69870d",
+   "identity": null,
+   "key": null,
+   "login": null,
+   "name": "2.ydyX8YgYrnvWkPO/zhB0Iw==|bIaSbx5FBXV7NnPLUf2C8g==|pq5TJ3X4uyqbyYgBBcUh9twFrU5QtmmHD+t39bEm6UY=",
+   "notes": null,
+   "object": "cipherDetails",
+   "organizationId": null,
+   "organizationUseTotp": true,
+   "passport": null,
+   "passwordHistory": [],
+   "permissions": {
+    "delete": true,
+    "restore": true
+   },
+   "reprompt": 0,
+   "revisionDate": "2026-10-15T08:34:21.169391Z",
+   "secureNote": null,
+   "sshKey": null,
+   "type": 3,
+   "viewPassword": true
+  }
+ ],
+ "collections": [
+  {
+   "defaultUserCollectionEmail": null,
+   "externalId": null,
+   "hidePasswords": false,
+   "id": "6da492b0-41cd-45b6-82e3-40ccfeb2da20",
+   "manage": true,
+   "name": "2.Fr+uwH9scN6xee8GWDlGCA==|TDYRp3D0oCAZZxwoppwG2w==|GHt9kX205d0A69oq1YYntk2HGDYIovvH86GofINEXME=",
+   "object": "collectionDetails",
+   "organizationId": "14a866fa-048c-426c-af8e-804c44df05c6",
+   "readOnly": false,
+   "type": 0
+  },
+  {
+   "defaultUserCollectionEmail": null,
+   "externalId": null,
+   "hidePasswords": false,
+   "id": "a0c19d45-a156-4fa4-b0da-77f89749592b",
+   "manage": true,
+   "name": "2.CsbxMnzXogtrUDzcpG5Jpg==|HyjuKto14+YsaEIe094o8gt2242EXZlMUviAVEtTDmo=|/fIEJfUK/Uez57JrshA9poE1FfBHj+zQ71580aU2vm8=",
+   "object": "collectionDetails",
+   "organizationId": "14a866fa-048c-426c-af8e-804c44df05c6",
+   "readOnly": false,
+   "type": 0
+  }
+ ],
+ "domains": {
+  "equivalentDomains": [],
+  "globalEquivalentDomains": [
+   {
+    "domains": [
+     "ameritrade.com",
+     "tdameritrade.com"
+    ],
+    "excluded": false,
+    "type": 2
+   },
+   {
+    "domains": [
+     "bankofamerica.com",
+     "bofa.com",
+     "mbna.com",
+     "usecfo.com"
+    ],
+    "excluded": false,
+    "type": 3
+   },
+   {
+    "domains": [
+     "sprint.com",
+     "sprintpcs.com",
+     "nextel.com"
+    ],
+    "excluded": false,
+    "type": 4
+   },
+   {
+    "domains": [
+     "youtube.com",
+     "google.com",
+     "gmail.com"
+    ],
+    "excluded": false,
+    "type": 0
+   },
+   {
+    "domains": [
+     "apple.com",
+     "icloud.com"
+    ],
+    "excluded": false,
+    "type": 1
+   },
+   {
+    "domains": [
+     "wellsfargo.com",
+     "wf.com",
+     "wellsfargoadvisors.com"
+    ],
+    "excluded": false,
+    "type": 5
+   },
+   {
+    "domains": [
+     "mymerrill.com",
+     "ml.com",
+     "merrilledge.com"
+    ],
+    "excluded": false,
+    "type": 6
+   },
+   {
+    "domains": [
+     "accountonline.com",
+     "citi.com",
+     "citibank.com",
+     "citicards.com",
+     "citibankonline.com"
+    ],
+    "excluded": false,
+    "type": 7
+   },
+   {
+    "domains": [
+     "cnet.com",
+     "cnettv.com",
+     "com.com",
+     "download.com",
+     "news.com",
+     "search.com",
+     "upload.com"
+    ],
+    "excluded": false,
+    "type": 8
+   },
+   {
+    "domains": [
+     "bananarepublic.com",
+     "gap.com",
+     "oldnavy.com",
+     "piperlime.com"
+    ],
+    "excluded": false,
+    "type": 9
+   },
+   {
+    "domains": [
+     "bing.com",
+     "hotmail.com",
+     "live.com",
+     "microsoft.com",
+     "msn.com",
+     "passport.net",
+     "windows.com",
+     "microsoftonline.com",
+     "office.com",
+     "office365.com",
+     "microsoftstore.com",
+     "xbox.com",
+     "azure.com",
+     "windowsazure.com",
+     "cloud.microsoft"
+    ],
+    "excluded": false,
+    "type": 10
+   },
+   {
+    "domains": [
+     "ua2go.com",
+     "ual.com",
+     "united.com",
+     "unitedwifi.com"
+    ],
+    "excluded": false,
+    "type": 11
+   },
+   {
+    "domains": [
+     "overture.com",
+     "yahoo.com"
+    ],
+    "excluded": false,
+    "type": 12
+   },
+   {
+    "domains": [
+     "zonealarm.com",
+     "zonelabs.com"
+    ],
+    "excluded": false,
+    "type": 13
+   },
+   {
+    "domains": [
+     "paypal.com",
+     "paypal-search.com"
+    ],
+    "excluded": false,
+    "type": 14
+   },
+   {
+    "domains": [
+     "avon.com",
+     "youravon.com"
+    ],
+    "excluded": false,
+    "type": 15
+   },
+   {
+    "domains": [
+     "diapers.com",
+     "soap.com",
+     "wag.com",
+     "yoyo.com",
+     "beautybar.com",
+     "casa.com",
+     "afterschool.com",
+     "vine.com",
+     "bookworm.com",
+     "look.com",
+     "vinemarket.com"
+    ],
+    "excluded": false,
+    "type": 16
+   },
+   {
+    "domains": [
+     "1800contacts.com",
+     "800contacts.com"
+    ],
+    "excluded": false,
+    "type": 17
+   },
+   {
+    "domains": [
+     "amazon.com",
+     "amazon.com.be",
+     "amazon.ae",
+     "amazon.ca",
+     "amazon.co.uk",
+     "amazon.com.au",
+     "amazon.com.br",
+     "amazon.com.mx",
+     "amazon.com.tr",
+     "amazon.de",
+     "amazon.es",
+     "amazon.fr",
+     "amazon.in",
+     "amazon.it",
+     "amazon.nl",
+     "amazon.pl",
+     "amazon.sa",
+     "amazon.se",
+     "amazon.sg"
+    ],
+    "excluded": false,
+    "type": 18
+   },
+   {
+    "domains": [
+     "cox.com",
+     "cox.net",
+     "coxbusiness.com"
+    ],
+    "excluded": false,
+    "type": 19
+   },
+   {
+    "domains": [
+     "mynortonaccount.com",
+     "norton.com"
+    ],
+    "excluded": false,
+    "type": 20
+   },
+   {
+    "domains": [
+     "verizon.com",
+     "verizon.net"
+    ],
+    "excluded": false,
+    "type": 21
+   },
+   {
+    "domains": [
+     "rakuten.com",
+     "buy.com"
+    ],
+    "excluded": false,
+    "type": 22
+   },
+   {
+    "domains": [
+     "siriusxm.com",
+     "sirius.com"
+    ],
+    "excluded": false,
+    "type": 23
+   },
+   {
+    "domains": [
+     "ea.com",
+     "origin.com",
+     "play4free.com",
+     "tiberiumalliance.com"
+    ],
+    "excluded": false,
+    "type": 24
+   },
+   {
+    "domains": [
+     "37signals.com",
+     "basecamp.com",
+     "basecamphq.com",
+     "highrisehq.com"
+    ],
+    "excluded": false,
+    "type": 25
+   },
+   {
+    "domains": [
+     "steampowered.com",
+     "steamcommunity.com",
+     "steamgames.com"
+    ],
+    "excluded": false,
+    "type": 26
+   },
+   {
+    "domains": [
+     "chart.io",
+     "chartio.com"
+    ],
+    "excluded": false,
+    "type": 27
+   },
+   {
+    "domains": [
+     "gotomeeting.com",
+     "citrixonline.com"
+    ],
+    "excluded": false,
+    "type": 28
+   },
+   {
+    "domains": [
+     "gogoair.com",
+     "gogoinflight.com"
+    ],
+    "excluded": false,
+    "type": 29
+   },
+   {
+    "domains": [
+     "mysql.com",
+     "oracle.com"
+    ],
+    "excluded": false,
+    "type": 30
+   },
+   {
+    "domains": [
+     "discover.com",
+     "discovercard.com"
+    ],
+    "excluded": false,
+    "type": 31
+   },
+   {
+    "domains": [
+     "dcu.org",
+     "dcu-online.org"
+    ],
+    "excluded": false,
+    "type": 32
+   },
+   {
+    "domains": [
+     "healthcare.gov",
+     "cuidadodesalud.gov",
+     "cms.gov"
+    ],
+    "excluded": false,
+    "type": 33
+   },
+   {
+    "domains": [
+     "pepco.com",
+     "pepcoholdings.com"
+    ],
+    "excluded": false,
+    "type": 34
+   },
+   {
+    "domains": [
+     "century21.com",
+     "21online.com"
+    ],
+    "excluded": false,
+    "type": 35
+   },
+   {
+    "domains": [
+     "comcast.com",
+     "comcast.net",
+     "xfinity.com"
+    ],
+    "excluded": false,
+    "type": 36
+   },
+   {
+    "domains": [
+     "cricketwireless.com",
+     "aiowireless.com"
+    ],
+    "excluded": false,
+    "type": 37
+   },
+   {
+    "domains": [
+     "mandtbank.com",
+     "mtb.com"
+    ],
+    "excluded": false,
+    "type": 38
+   },
+   {
+    "domains": [
+     "dropbox.com",
+     "getdropbox.com"
+    ],
+    "excluded": false,
+    "type": 39
+   },
+   {
+    "domains": [
+     "snapfish.com",
+     "snapfish.ca"
+    ],
+    "excluded": false,
+    "type": 40
+   },
+   {
+    "domains": [
+     "alibaba.com",
+     "aliexpress.com",
+     "aliyun.com",
+     "net.cn"
+    ],
+    "excluded": false,
+    "type": 41
+   },
+   {
+    "domains": [
+     "playstation.com",
+     "sonyentertainmentnetwork.com"
+    ],
+    "excluded": false,
+    "type": 42
+   },
+   {
+    "domains": [
+     "mercadolivre.com",
+     "mercadolivre.com.br",
+     "mercadolibre.com",
+     "mercadolibre.com.ar",
+     "mercadolibre.com.mx"
+    ],
+    "excluded": false,
+    "type": 43
+   },
+   {
+    "domains": [
+     "zendesk.com",
+     "zopim.com"
+    ],
+    "excluded": false,
+    "type": 44
+   },
+   {
+    "domains": [
+     "autodesk.com",
+     "tinkercad.com"
+    ],
+    "excluded": false,
+    "type": 45
+   },
+   {
+    "domains": [
+     "railnation.ru",
+     "railnation.de",
+     "rail-nation.com",
+     "railnation.gr",
+     "railnation.us",
+     "trucknation.de",
+     "traviangames.com"
+    ],
+    "excluded": false,
+    "type": 46
+   },
+   {
+    "domains": [
+     "wpcu.coop",
+     "wpcuonline.com"
+    ],
+    "excluded": false,
+    "type": 47
+   },
+   {
+    "domains": [
+     "mathletics.com",
+     "mathletics.com.au",
+     "mathletics.co.uk"
+    ],
+    "excluded": false,
+    "type": 48
+   },
+   {
+    "domains": [
+     "discountbank.co.il",
+     "telebank.co.il"
+    ],
+    "excluded": false,
+    "type": 49
+   },
+   {
+    "domains": [
+     "mi.com",
+     "xiaomi.com"
+    ],
+    "excluded": false,
+    "type": 50
+   },
+   {
+    "domains": [
+     "postepay.it",
+     "poste.it"
+    ],
+    "excluded": false,
+    "type": 52
+   },
+   {
+    "domains": [
+     "facebook.com",
+     "messenger.com"
+    ],
+    "excluded": false,
+    "type": 51
+   },
+   {
+    "domains": [
+     "skysports.com",
+     "skybet.com",
+     "skyvegas.com"
+    ],
+    "excluded": false,
+    "type": 53
+   },
+   {
+    "domains": [
+     "disneymoviesanywhere.com",
+     "go.com",
+     "disney.com",
+     "dadt.com",
+     "disneyplus.com"
+    ],
+    "excluded": false,
+    "type": 54
+   },
+   {
+    "domains": [
+     "pokemon-gl.com",
+     "pokemon.com"
+    ],
+    "excluded": false,
+    "type": 55
+   },
+   {
+    "domains": [
+     "myuv.com",
+     "uvvu.com"
+    ],
+    "excluded": false,
+    "type": 56
+   },
+   {
+    "domains": [
+     "mdsol.com",
+     "imedidata.com"
+    ],
+    "excluded": false,
+    "type": 58
+   },
+   {
+    "domains": [
+     "bank-yahav.co.il",
+     "bankhapoalim.co.il"
+    ],
+    "excluded": false,
+    "type": 57
+   },
+   {
+    "domains": [
+     "sears.com",
+     "shld.net"
+    ],
+    "excluded": false,
+    "type": 59
+   },
+   {
+    "domains": [
+     "xiami.com",
+     "alipay.com"
+    ],
+    "excluded": false,
+    "type": 60
+   },
+   {
+    "domains": [
+     "belkin.com",
+     "seedonk.com"
+    ],
+    "excluded": false,
+    "type": 61
+   },
+   {
+    "domains": [
+     "turbotax.com",
+     "intuit.com"
+    ],
+    "excluded": false,
+    "type": 62
+   },
+   {
+    "domains": [
+     "shopify.com",
+     "myshopify.com"
+    ],
+    "excluded": false,
+    "type": 63
+   },
+   {
+    "domains": [
+     "ebay.com",
+     "ebay.at",
+     "ebay.be",
+     "ebay.ca",
+     "ebay.ch",
+     "ebay.cn",
+     "ebay.co.jp",
+     "ebay.co.th",
+     "ebay.co.uk",
+     "ebay.com.au",
+     "ebay.com.hk",
+     "ebay.com.my",
+     "ebay.com.sg",
+     "ebay.com.tw",
+     "ebay.de",
+     "ebay.es",
+     "ebay.fr",
+     "ebay.ie",
+     "ebay.in",
+     "ebay.it",
+     "ebay.nl",
+     "ebay.ph",
+     "ebay.pl"
+    ],
+    "excluded": false,
+    "type": 64
+   },
+   {
+    "domains": [
+     "techdata.com",
+     "techdata.ch"
+    ],
+    "excluded": false,
+    "type": 65
+   },
+   {
+    "domains": [
+     "schwab.com",
+     "schwabplan.com"
+    ],
+    "excluded": false,
+    "type": 66
+   },
+   {
+    "domains": [
+     "tesla.com",
+     "teslamotors.com"
+    ],
+    "excluded": false,
+    "type": 68
+   },
+   {
+    "domains": [
+     "morganstanley.com",
+     "morganstanleyclientserv.com",
+     "stockplanconnect.com",
+     "ms.com"
+    ],
+    "excluded": false,
+    "type": 69
+   },
+   {
+    "domains": [
+     "taxact.com",
+     "taxactonline.com"
+    ],
+    "excluded": false,
+    "type": 70
+   },
+   {
+    "domains": [
+     "mediawiki.org",
+     "wikibooks.org",
+     "wikidata.org",
+     "wikimedia.org",
+     "wikinews.org",
+     "wikipedia.org",
+     "wikiquote.org",
+     "wikisource.org",
+     "wikiversity.org",
+     "wikivoyage.org",
+     "wiktionary.org"
+    ],
+    "excluded": false,
+    "type": 71
+   },
+   {
+    "domains": [
+     "airbnb.at",
+     "airbnb.be",
+     "airbnb.ca",
+     "airbnb.ch",
+     "airbnb.cl",
+     "airbnb.co.cr",
+     "airbnb.co.id",
+     "airbnb.co.in",
+     "airbnb.co.kr",
+     "airbnb.co.nz",
+     "airbnb.co.uk",
+     "airbnb.co.ve",
+     "airbnb.com",
+     "airbnb.com.ar",
+     "airbnb.com.au",
+     "airbnb.com.bo",
+     "airbnb.com.br",
+     "airbnb.com.bz",
+     "airbnb.com.co",
+     "airbnb.com.ec",
+     "airbnb.com.gt",
+     "airbnb.com.hk",
+     "airbnb.com.hn",
+     "airbnb.com.mt",
+     "airbnb.com.my",
+     "airbnb.com.ni",
+     "airbnb.com.pa",
+     "airbnb.com.pe",
+     "airbnb.com.py",
+     "airbnb.com.sg",
+     "airbnb.com.sv",
+     "airbnb.com.tr",
+     "airbnb.com.tw",
+     "airbnb.cz",
+     "airbnb.de",
+     "airbnb.dk",
+     "airbnb.es",
+     "airbnb.fi",
+     "airbnb.fr",
+     "airbnb.gr",
+     "airbnb.gy",
+     "airbnb.hu",
+     "airbnb.ie",
+     "airbnb.is",
+     "airbnb.it",
+     "airbnb.jp",
+     "airbnb.mx",
+     "airbnb.nl",
+     "airbnb.no",
+     "airbnb.pl",
+     "airbnb.pt",
+     "airbnb.ru",
+     "airbnb.se"
+    ],
+    "excluded": false,
+    "type": 72
+   },
+   {
+    "domains": [
+     "eventbrite.at",
+     "eventbrite.be",
+     "eventbrite.ca",
+     "eventbrite.ch",
+     "eventbrite.cl",
+     "eventbrite.co",
+     "eventbrite.co.nz",
+     "eventbrite.co.uk",
+     "eventbrite.com",
+     "eventbrite.com.ar",
+     "eventbrite.com.au",
+     "eventbrite.com.br",
+     "eventbrite.com.mx",
+     "eventbrite.com.pe",
+     "eventbrite.de",
+     "eventbrite.dk",
+     "eventbrite.es",
+     "eventbrite.fi",
+     "eventbrite.fr",
+     "eventbrite.hk",
+     "eventbrite.ie",
+     "eventbrite.it",
+     "eventbrite.nl",
+     "eventbrite.pt",
+     "eventbrite.se",
+     "eventbrite.sg"
+    ],
+    "excluded": false,
+    "type": 73
+   },
+   {
+    "domains": [
+     "stackexchange.com",
+     "superuser.com",
+     "stackoverflow.com",
+     "serverfault.com",
+     "mathoverflow.net",
+     "askubuntu.com",
+     "stackapps.com"
+    ],
+    "excluded": false,
+    "type": 74
+   },
+   {
+    "domains": [
+     "docusign.com",
+     "docusign.net"
+    ],
+    "excluded": false,
+    "type": 75
+   },
+   {
+    "domains": [
+     "envato.com",
+     "themeforest.net",
+     "codecanyon.net",
+     "videohive.net",
+     "audiojungle.net",
+     "graphicriver.net",
+     "photodune.net",
+     "3docean.net"
+    ],
+    "excluded": false,
+    "type": 76
+   },
+   {
+    "domains": [
+     "x10hosting.com",
+     "x10premium.com"
+    ],
+    "excluded": false,
+    "type": 77
+   },
+   {
+    "domains": [
+     "dnsomatic.com",
+     "opendns.com",
+     "umbrella.com"
+    ],
+    "excluded": false,
+    "type": 78
+   },
+   {
+    "domains": [
+     "cagreatamerica.com",
+     "canadaswonderland.com",
+     "carowinds.com",
+     "cedarfair.com",
+     "cedarpoint.com",
+     "dorneypark.com",
+     "kingsdominion.com",
+     "knotts.com",
+     "miadventure.com",
+     "schlitterbahn.com",
+     "valleyfair.com",
+     "visitkingsisland.com",
+     "worldsoffun.com"
+    ],
+    "excluded": false,
+    "type": 79
+   },
+   {
+    "domains": [
+     "ubnt.com",
+     "ui.com"
+    ],
+    "excluded": false,
+    "type": 80
+   },
+   {
+    "domains": [
+     "discordapp.com",
+     "discord.com"
+    ],
+    "excluded": false,
+    "type": 81
+   },
+   {
+    "domains": [
+     "netcup.de",
+     "netcup.eu",
+     "customercontrolpanel.de"
+    ],
+    "excluded": false,
+    "type": 82
+   },
+   {
+    "domains": [
+     "yandex.com",
+     "ya.ru",
+     "yandex.az",
+     "yandex.by",
+     "yandex.co.il",
+     "yandex.com.am",
+     "yandex.com.ge",
+     "yandex.com.tr",
+     "yandex.ee",
+     "yandex.fi",
+     "yandex.fr",
+     "yandex.kg",
+     "yandex.kz",
+     "yandex.lt",
+     "yandex.lv",
+     "yandex.md",
+     "yandex.pl",
+     "yandex.ru",
+     "yandex.tj",
+     "yandex.tm",
+     "yandex.ua",
+     "yandex.uz"
+    ],
+    "excluded": false,
+    "type": 83
+   },
+   {
+    "domains": [
+     "sonyentertainmentnetwork.com",
+     "sony.com"
+    ],
+    "excluded": false,
+    "type": 84
+   },
+   {
+    "domains": [
+     "proton.me",
+     "protonmail.com",
+     "protonvpn.com"
+    ],
+    "excluded": false,
+    "type": 85
+   },
+   {
+    "domains": [
+     "ubisoft.com",
+     "ubi.com"
+    ],
+    "excluded": false,
+    "type": 86
+   },
+   {
+    "domains": [
+     "transferwise.com",
+     "wise.com"
+    ],
+    "excluded": false,
+    "type": 87
+   },
+   {
+    "domains": [
+     "takeaway.com",
+     "just-eat.dk",
+     "just-eat.no",
+     "just-eat.fr",
+     "just-eat.ch",
+     "lieferando.de",
+     "lieferando.at",
+     "thuisbezorgd.nl",
+     "pyszne.pl"
+    ],
+    "excluded": false,
+    "type": 88
+   },
+   {
+    "domains": [
+     "atlassian.com",
+     "bitbucket.org",
+     "trello.com",
+     "statuspage.io",
+     "atlassian.net",
+     "jira.com"
+    ],
+    "excluded": false,
+    "type": 89
+   },
+   {
+    "domains": [
+     "pinterest.com",
+     "pinterest.com.au",
+     "pinterest.cl",
+     "pinterest.de",
+     "pinterest.dk",
+     "pinterest.es",
+     "pinterest.fr",
+     "pinterest.co.uk",
+     "pinterest.jp",
+     "pinterest.co.kr",
+     "pinterest.nz",
+     "pinterest.pt",
+     "pinterest.se"
+    ],
+    "excluded": false,
+    "type": 90
+   },
+   {
+    "domains": [
+     "twitter.com",
+     "x.com"
+    ],
+    "excluded": false,
+    "type": 91
+   }
+  ],
+  "object": "domains"
+ },
+ "folders": [
+  {
+   "id": "b8a385df-e45d-4fc5-b86e-e009fe719b42",
+   "name": "2.n5Cs3mJr1MMtUIcbUqGf6w==|WIXQMk56ccq9W1yt/RJw3Q==|NhLnzBXk/RRJ5ZEgELMvi9GYmu/+GfiSSLSxjKkRK7o=",
+   "object": "folder",
+   "revisionDate": "2026-10-15T08:29:30.756310Z"
+  },
+  {
+   "id": "e8a040bb-82cc-463f-b9f9-caa2d0b35540",
+   "name": "2.2rO2brZCoK6HHOFZ+A9+Fg==|IxFnQ0RpqwJAIPlDKeva76GUqfa2eoZvmLZsokNqEt4=|nUpfknDl0rH5hgtETQjuFJgQsm7A3KB6orWKrWvsdVw=",
+   "object": "folder",
+   "revisionDate": "2026-10-15T08:34:21.404682Z"
+  }
+ ],
+ "object": "sync",
+ "policies": [],
+ "policiesNew": [],
+ "profile": {
+  "_status": 0,
+  "accountKeys": {
+   "object": "privateKeys",
+   "publicKeyEncryptionKeyPair": {
+    "object": "publicKeyEncryptionKeyPair",
+    "publicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvhm9LutPM3xE84KKgJ87VjuHVCye+eIn4RJ473f+d4CjRVgSvANmKd5oTZu1Dq5UWGBChoiQV8rLmuUT8yIM7SRFvBrphn3Mq95QQ5gWEDjRg0yLxxNwvL5P6wq/oQiNMrdQtP5t+rM7qfSpckQzqYpReWUiEeoiFfZRobypSS/q1rq/9Fqu7ceN4J3ni+/GA5O0/fe76ApFsETnlpYLpTgUJrlwkKPFZU6QcspuQB5Y9T09tyaam+eImusrpbLiVdBKhgfpuOHQXco3ztKW5rbRR8LLU2zN/69LQweonGaHnHy6D/cohL+mQ9Suw3/JMHTB4QHR3PrDphDAxcgWuQIDAQAB",
+    "signedPublicKey": null,
+    "wrappedPrivateKey": "2.ImngOJ7DCyzBJlAjJXybhw==|srqBM5qO6wy0T1IG/UtStjLZ2A4mi+sfuDPvsHJ/mRk/GTJrtFoDY+Gi3cees4fxgFrG1OywknrtIRr36MkROqzz8lQmOXL22MHPk2BojYn5YV9Tb9tmm0Rv1dSugoPO546wavNNROkdMqgpwi6tsiDOAg+jTgp+mUgycTIHbz8ypHNqBzxr4Qo2I7yT6eEzfYZp5jYaLHdtxn0Lmx4GJw5z6B1tcolmNhc7Ln2xOJ4VV48zwMFNBsDnM/dCLM79dvbBv026Ce2HAc6Ld9Uc1lwLsc7haTPCVBoxtKRxS6GEOrvhJ55Sb64zWDaHDVXdb5ytx0sMPD68KAOf4n3Ee46em/7LUd718Onr2pQBv6tnez5zVSM/oeGINyvmLycLBCI7f4d6jIH5u5B6Da443RS+y3VwKmw88JboVLQbyiSI53vJscl+GVQIEIZNfrMrg1n+7chTwEHYIz2Joq1o9yxy/rAppT3fPhtriYN1dxdR4FBpRUCanPj04mc7pa1SbNAx/tG91zQWrh8/B0ja9U+vSwT5INBNTNVPcFf3tMYrrZaOS+360Ze5RZYSp30Xcd43hPXFRye159xQGwaZP146zf0/d0Lfii7/9hQQtCV1qrWoZNYsL51dbazJqcoxxocKPGMrffUtLOVdQHUNbJQtmaoQpPu3ZDbAXU3gKcCrpZbRShr3ITxILNiSLIJRKuiCuefDHhGfmxOUcOYZeNYwZdL8b2Jw/omCPANPE65qi53MCUDDIEpoQMiMMspW3Hg16k0EhQBmC7ij681U5RvArtfhCJ1O2RMWat/hcdFNb0XMwqBpxk/414PFNSrEYwOItTYTLp5Du4wWGN2/obhMQwVmmLnrgo6wQhCPD170oQTygzJEzOyjsZ2jHCCVzWoT/olRt92kcAY1D9J4/v3qDKZGdpWcv+hMbedeNxepRbfSfVroQZ5/rSoedTUDpxz56fJbJydX9a7XClUn0sDhyIc8gwPRHvadOcOfptF5r+04lv+nmmH0GW8jK08b8VSA9seK+lmZPWIaPvBpQRZRpm+DpFtH8dnA1sxEYpLDtEKAQAlta+d4ZDWRTMQfWQpsdybrK/G0170CfSsp5Xe830IvjQOoAMOztr/NBOAHK8jarMA0rQI7LUclHetBqU98qpR1bjuVNUnccW+OkeVLE4tcI74fsE+WknS2I3BWfS80Iln5I4NJZJzD0m5dzlVlyhIG/R8TBB2RPAZJn+OjL6XFqdGCenmP0lhQwJvQl/KY1q15eYXY4Kt/NabSJ+/g3/LIW9QnYSo+NyBYwpJOXSMTTzlpNA8FlaIA4Ld6e6LsVoPsyu1lx1IZx1DvLE4pA9QWfe/Eg88r4205bqLxgVuJRYe7izp86aBYsHCXoxepR9lpf5TqifpoiwbjkOmDwrAKErgvwGT49BcEyy4I0cs3XRnxU4c/RYdI7eIdFMyDYzzT5fEty2V823uzTAkXl3Tns6wt0mQEeZ4okt9q9SdaiX4mBtCH/3Mc5k1vX4gyqD7rlze2bRvZ2CTd0Q/79+t0Ksy6/kzRGISJR1C1xLF2FacDpC7CtW7DfEYRAI7LhLuQh7ZApXZ5SaGgCuD3yUAjPoW+oot3FAXayd2CzebX85vLeLTRW6JJShg=|SkGm3ZPsIJUSTQITSAeOOIiniiN75SHHwlxh+xNRS6o="
+   },
+   "securityState": null,
+   "signatureKeyPair": null
+  },
+  "avatarColor": null,
+  "creationDate": "2026-10-15T08:25:56.412049Z",
+  "culture": "en-US",
+  "email": "tester@example.com",
+  "emailVerified": true,
+  "forcePasswordReset": false,
+  "id": "e0cecb0b-1f09-4e7c-b6da-da3583305f26",
+  "key": "2.j3tQcTBzkJuXZ6wr93I5KQ==|RRoZQ47FnawqgQQ7httQv1qBysKkb3VM+CuBuNVoYhRGMFuVfv75lkxmPGT9LQrJLSenkAc0HCrTMVdvjl/yylD0L0/nfQFaBLMXV4Ayy0Y=|P+nzJNqDeS9f56IfmAC967QPr6UEy4ULIJxBKHHL9xg=",
+  "name": "Test User",
+  "object": "profile",
+  "organizations": [
+   {
+    "accessSecretsManager": false,
+    "allowAdminAccessToAllCollectionItems": true,
+    "enabled": true,
+    "familySponsorshipAvailable": false,
+    "familySponsorshipFriendlyName": null,
+    "familySponsorshipLastSyncDate": null,
+    "familySponsorshipToDelete": null,
+    "familySponsorshipValidUntil": null,
+    "hasPublicAndPrivateKeys": true,
+    "id": "14a866fa-048c-426c-af8e-804c44df05c6",
+    "identifier": null,
+    "key": "4.WYPboqDDG+BvD7sqNeASEsUJan0kvTpJ718eOPInKXtRp6wf5ZdVtKSZoA+XyeuK+asmoLTsR8iHesDTyN/zMXd8JTHXsHxqBgrU9GDe2acEJR4YBoLl6rD2+vhGGNNtTUAQXARLBDhp39J1muAULNiBqD2ZQUz+fWvhoGydpFAHZYr7GXwNz+e8xw4CjbvuvEYPRULYbxFQ5edktikfRMSqYlHAxViXJPujyIEzBhoUeKv1nQnLRzB5gxCGklGKgBkaCsnMvd8fd6DH8rT2Yj2eHbSW+uGrhwOnimLKXMXyUM0DLQUY3YtTW8ojWLYiOQF+NBF1ezj47kq2LDvP8A==",
+    "keyConnectorEnabled": false,
+    "keyConnectorUrl": null,
+    "limitCollectionCreation": false,
+    "limitCollectionDeletion": true,
+    "limitItemDeletion": false,
+    "maxCollections": null,
+    "maxStorageGb": 32767,
+    "name": "Test Org",
+    "object": "profileOrganization",
+    "organizationUserId": "451ae347-3151-4da4-867b-2f86ffb08bbc",
+    "permissions": {
+     "accessEventLogs": false,
+     "accessImportExport": false,
+     "accessReports": false,
+     "createNewCollections": false,
+     "deleteAnyCollection": false,
+     "editAnyCollection": false,
+     "manageGroups": false,
+     "managePolicies": false,
+     "manageResetPassword": false,
+     "manageScim": false,
+     "manageSso": false,
+     "manageUsers": false
+    },
+    "productTierType": 3,
+    "providerId": null,
+    "providerName": null,
+    "providerType": null,
+    "resetPasswordEnrolled": false,
+    "seats": 20,
+    "selfHost": true,
+    "ssoBound": false,
+    "status": 2,
+    "type": 0,
+    "use2fa": true,
+    "useActivateAutofillPolicy": false,
+    "useAdminSponsoredFamilies": false,
+    "useApi": true,
+    "useCustomPermissions": true,
+    "useDirectory": false,
+    "useDisableSMAdsForUsers": true,
+    "useEvents": false,
+    "useGroups": false,
+    "useInviteLinks": false,
+    "useKeyConnector": false,
+    "useMyItems": false,
+    "useOrganizationDomains": false,
+    "usePam": false,
+    "usePasswordManager": true,
+    "usePhishingBlocker": false,
+    "usePolicies": true,
+    "useResetPassword": false,
+    "useRiskInsights": false,
+    "useScim": false,
+    "useSecretsManager": false,
+    "useSso": false,
+    "useTotp": true,
+    "userId": "e0cecb0b-1f09-4e7c-b6da-da3583305f26",
+    "userIsClaimedByOrganization": false,
+    "usersGetPremium": true
+   }
+  ],
+  "organizationsNew": [
+   {
+    "accessSecretsManager": false,
+    "allowAdminAccessToAllCollectionItems": true,
+    "enabled": true,
+    "familySponsorshipAvailable": false,
+    "familySponsorshipFriendlyName": null,
+    "familySponsorshipLastSyncDate": null,
+    "familySponsorshipToDelete": null,
+    "familySponsorshipValidUntil": null,
+    "hasPublicAndPrivateKeys": true,
+    "id": "14a866fa-048c-426c-af8e-804c44df05c6",
+    "identifier": null,
+    "key": "4.WYPboqDDG+BvD7sqNeASEsUJan0kvTpJ718eOPInKXtRp6wf5ZdVtKSZoA+XyeuK+asmoLTsR8iHesDTyN/zMXd8JTHXsHxqBgrU9GDe2acEJR4YBoLl6rD2+vhGGNNtTUAQXARLBDhp39J1muAULNiBqD2ZQUz+fWvhoGydpFAHZYr7GXwNz+e8xw4CjbvuvEYPRULYbxFQ5edktikfRMSqYlHAxViXJPujyIEzBhoUeKv1nQnLRzB5gxCGklGKgBkaCsnMvd8fd6DH8rT2Yj2eHbSW+uGrhwOnimLKXMXyUM0DLQUY3YtTW8ojWLYiOQF+NBF1ezj47kq2LDvP8A==",
+    "keyConnectorEnabled": false,
+    "keyConnectorUrl": null,
+    "limitCollectionCreation": false,
+    "limitCollectionDeletion": true,
+    "limitItemDeletion": false,
+    "maxCollections": null,
+    "maxStorageGb": 32767,
+    "name": "Test Org",
+    "object": "profileOrganization",
+    "organizationUserId": "451ae347-3151-4da4-867b-2f86ffb08bbc",
+    "permissions": {
+     "accessEventLogs": false,
+     "accessImportExport": false,
+     "accessReports": false,
+     "createNewCollections": false,
+     "deleteAnyCollection": false,
+     "editAnyCollection": false,
+     "manageGroups": false,
+     "managePolicies": false,
+     "manageResetPassword": false,
+     "manageScim": false,
+     "manageSso": false,
+     "manageUsers": false
+    },
+    "productTierType": 3,
+    "providerId": null,
+    "providerName": null,
+    "providerType": null,
+    "resetPasswordEnrolled": false,
+    "seats": 20,
+    "selfHost": true,
+    "ssoBound": false,
+    "status": 2,
+    "type": 0,
+    "use2fa": true,
+    "useActivateAutofillPolicy": false,
+    "useAdminSponsoredFamilies": false,
+    "useApi": true,
+    "useCustomPermissions": true,
+    "useDirectory": false,
+    "useDisableSMAdsForUsers": true,
+    "useEvents": false,
+    "useGroups": false,
+    "useInviteLinks": false,
+    "useKeyConnector": false,
+    "useMyItems": false,
+    "useOrganizationDomains": false,
+    "usePam": false,
+    "usePasswordManager": true,
+    "usePhishingBlocker": false,
+    "usePolicies": true,
+    "useResetPassword": false,
+    "useRiskInsights": false,
+    "useScim": false,
+    "useSecretsManager": false,
+    "useSso": false,
+    "useTotp": true,
+    "userId": "e0cecb0b-1f09-4e7c-b6da-da3583305f26",
+    "userIsClaimedByOrganization": false,
+    "usersGetPremium": true
+   }
+  ],
+  "premium": true,
+  "premiumFromOrganization": false,
+  "privateKey": "2.ImngOJ7DCyzBJlAjJXybhw==|srqBM5qO6wy0T1IG/UtStjLZ2A4mi+sfuDPvsHJ/mRk/GTJrtFoDY+Gi3cees4fxgFrG1OywknrtIRr36MkROqzz8lQmOXL22MHPk2BojYn5YV9Tb9tmm0Rv1dSugoPO546wavNNROkdMqgpwi6tsiDOAg+jTgp+mUgycTIHbz8ypHNqBzxr4Qo2I7yT6eEzfYZp5jYaLHdtxn0Lmx4GJw5z6B1tcolmNhc7Ln2xOJ4VV48zwMFNBsDnM/dCLM79dvbBv026Ce2HAc6Ld9Uc1lwLsc7haTPCVBoxtKRxS6GEOrvhJ55Sb64zWDaHDVXdb5ytx0sMPD68KAOf4n3Ee46em/7LUd718Onr2pQBv6tnez5zVSM/oeGINyvmLycLBCI7f4d6jIH5u5B6Da443RS+y3VwKmw88JboVLQbyiSI53vJscl+GVQIEIZNfrMrg1n+7chTwEHYIz2Joq1o9yxy/rAppT3fPhtriYN1dxdR4FBpRUCanPj04mc7pa1SbNAx/tG91zQWrh8/B0ja9U+vSwT5INBNTNVPcFf3tMYrrZaOS+360Ze5RZYSp30Xcd43hPXFRye159xQGwaZP146zf0/d0Lfii7/9hQQtCV1qrWoZNYsL51dbazJqcoxxocKPGMrffUtLOVdQHUNbJQtmaoQpPu3ZDbAXU3gKcCrpZbRShr3ITxILNiSLIJRKuiCuefDHhGfmxOUcOYZeNYwZdL8b2Jw/omCPANPE65qi53MCUDDIEpoQMiMMspW3Hg16k0EhQBmC7ij681U5RvArtfhCJ1O2RMWat/hcdFNb0XMwqBpxk/414PFNSrEYwOItTYTLp5Du4wWGN2/obhMQwVmmLnrgo6wQhCPD170oQTygzJEzOyjsZ2jHCCVzWoT/olRt92kcAY1D9J4/v3qDKZGdpWcv+hMbedeNxepRbfSfVroQZ5/rSoedTUDpxz56fJbJydX9a7XClUn0sDhyIc8gwPRHvadOcOfptF5r+04lv+nmmH0GW8jK08b8VSA9seK+lmZPWIaPvBpQRZRpm+DpFtH8dnA1sxEYpLDtEKAQAlta+d4ZDWRTMQfWQpsdybrK/G0170CfSsp5Xe830IvjQOoAMOztr/NBOAHK8jarMA0rQI7LUclHetBqU98qpR1bjuVNUnccW+OkeVLE4tcI74fsE+WknS2I3BWfS80Iln5I4NJZJzD0m5dzlVlyhIG/R8TBB2RPAZJn+OjL6XFqdGCenmP0lhQwJvQl/KY1q15eYXY4Kt/NabSJ+/g3/LIW9QnYSo+NyBYwpJOXSMTTzlpNA8FlaIA4Ld6e6LsVoPsyu1lx1IZx1DvLE4pA9QWfe/Eg88r4205bqLxgVuJRYe7izp86aBYsHCXoxepR9lpf5TqifpoiwbjkOmDwrAKErgvwGT49BcEyy4I0cs3XRnxU4c/RYdI7eIdFMyDYzzT5fEty2V823uzTAkXl3Tns6wt0mQEeZ4okt9q9SdaiX4mBtCH/3Mc5k1vX4gyqD7rlze2bRvZ2CTd0Q/79+t0Ksy6/kzRGISJR1C1xLF2FacDpC7CtW7DfEYRAI7LhLuQh7ZApXZ5SaGgCuD3yUAjPoW+oot3FAXayd2CzebX85vLeLTRW6JJShg=|SkGm3ZPsIJUSTQITSAeOOIiniiN75SHHwlxh+xNRS6o=",
+  "providerOrganizations": [],
+  "providers": [],
+  "securityStamp": "48e30559-038d-4ccd-8d0a-6afd5f3b5e96",
+  "twoFactorEnabled": false,
+  "usesKeyConnector": false
+ },
+ "sends": [
+  {
+   "accessCount": 0,
+   "accessId": "iOmxaWB_S0O_y5msJO2oYA",
+   "authType": 2,
+   "deletionDate": "2026-10-25T08:34:30.000000Z",
+   "disabled": false,
+   "expirationDate": null,
+   "file": null,
+   "hideEmail": false,
+   "id": "88e9b169-607f-4b43-bfcb-99ac24eda860",
+   "key": "2.FQ6yvyNQe/eP4vxBmpHjeA==|BrvO6LM7HawT2Ezp1dMT1Qtz4J3Q2yGDSVgCJJsf0SM=|KjZtRVMjpmYD+Do1Pqc29tO/AVzbF458ZtqOO4h8qnY=",
+   "maxAccessCount": 3,
+   "name": "2.0PBP9+eyKnk8NE8CR1w2bg==|jBxdcTOhnBAGEIJ6drf0/Q==|HpLUGRmcQGmr3CV3u5IB5e90NByBk3jwJTInfN8Qa8E=",
+   "notes": "2.ZvV3DyhDMwU1EwuyOlE8Vg==|zntpZwCF9eL1j0c2D2Biog==|/WZ395iCC/6v2AniP7QZK4tdR2tx6/7nnqxCLeCsTv4=",
+   "object": "send",
+   "password": null,
+   "revisionDate": "2026-10-15T08:35:13.139481Z",
+   "text": {
+    "hidden": true,
+    "text": "2.rA1j55pMwsg/kt4qPeBfxA==|n4F5Hc5WySHDd1b4IlBTjQ==|cfAO4ju/szcCXTAbNVcyBukMKiGoMlsHK4BBqHVYheQ="
+   },
+   "type": 0
+  }
+ ],
+ "userDecryption": {
+  "masterPasswordUnlock": {
+   "kdf": {
+    "iterations": 600000,
+    "kdfType": 0,
+    "memory": null,
+    "parallelism": null
+   },
+   "masterKeyEncryptedUserKey": "2.j3tQcTBzkJuXZ6wr93I5KQ==|RRoZQ47FnawqgQQ7httQv1qBysKkb3VM+CuBuNVoYhRGMFuVfv75lkxmPGT9LQrJLSenkAc0HCrTMVdvjl/yylD0L0/nfQFaBLMXV4Ayy0Y=|P+nzJNqDeS9f56IfmAC967QPr6UEy4ULIJxBKHHL9xg=",
+   "masterKeyWrappedUserKey": "2.j3tQcTBzkJuXZ6wr93I5KQ==|RRoZQ47FnawqgQQ7httQv1qBysKkb3VM+CuBuNVoYhRGMFuVfv75lkxmPGT9LQrJLSenkAc0HCrTMVdvjl/yylD0L0/nfQFaBLMXV4Ayy0Y=|P+nzJNqDeS9f56IfmAC967QPr6UEy4ULIJxBKHHL9xg=",
+   "salt": "tester@example.com"
+  },
+  "userKeyId": "ea53bfd80fdefc15da7d1290a4d15910"
+ }
+}

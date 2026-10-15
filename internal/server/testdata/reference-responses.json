@@ -1,0 +1,719 @@
+{
+ "list-items": {
+  "path": "/list/object/items",
+  "response": {
+   "success": true,
+   "data": {
+    "object": "list",
+    "data": [
+     {
+      "type": 1,
+      "name": "GitHub",
+      "favorite": true,
+      "reprompt": 0,
+      "id": "7ef9bcff-93f8-4962-8e57-b677c36014ba",
+      "collectionIds": [],
+      "object": "item",
+      "folderId": "b8a385df-e45d-4fc5-b86e-e009fe719b42",
+      "notes": "my notes & <stuff>",
+      "fields": [
+       {
+        "type": 1,
+        "name": "api",
+        "value": "k2"
+       },
+       {
+        "type": 0,
+        "name": "txt",
+        "value": "plain"
+       },
+       {
+        "type": 2,
+        "name": "flag",
+        "value": "true"
+       }
+      ],
+      "login": {
+       "uris": [
+        {
+         "uri": "https://github.com/login"
+        },
+        {
+         "uri": "https://gist.github.com",
+         "match": 3
+        }
+       ],
+       "fido2Credentials": [],
+       "username": "octocat",
+       "password": "newpass1",
+       "totp": "JBSWY3DPEHPK3PXP",
+       "passwordRevisionDate": "2026-10-15T08:29:32.237Z"
+      },
+      "passwordHistory": [
+       {
+        "lastUsedDate": "2026-10-15T08:29:32.237Z",
+        "password": "api: k1"
+       },
+       {
+        "lastUsedDate": "2026-10-15T08:29:32.237Z",
+        "password": "p@ss&word<1>"
+       }
+      ],
+      "creationDate": "2026-10-15T08:29:31.286Z",
+      "revisionDate": "2026-10-15T08:29:32.240Z",
+      "attachments": [
+       {
+        "id": "47fdc525fe5c88cbd675",
+        "fileName": "att.txt",
+        "size": "81",
+        "sizeName": "81.00 bytes",
+        "url": "https://vw-tls/attachments/7ef9bcff-93f8-4962-8e57-b677c36014ba/47fdc525fe5c88cbd675?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJuYmYiOjE3OTIwNTM1MzMsImV4cCI6MTc5MjA1MzU5MywiaXNzIjoiaHR0cDovL2xvY2FsaG9zdHxmaWxlX2Rvd25sb2FkIiwic3ViIjoiN2VmOWJjZmYtOTNmOC00OTYyLThlNTctYjY3N2MzNjAxNGJhIiwiZmlsZV9pZCI6IjQ3ZmRjNTI1ZmU1Yzg4Y2JkNjc1In0.VNQ03KC5vt8W78aerAOwJD_FH6W3Sv3imAGN84pVtDlVe3oOgkeCVz3vWzV73e5yfHwes-drn94uLiyItmUhzxnn1LPIxGzne62GddkH9bPuKtlZ3eEvaDGABWFT-Hc-x0pJf5ddUfRZr881g2LTHPsGbJ3qMjM_fj8WkiW46EYBvcNlGJV2GFlls14lzBx42NtjdFx1SytV3f7-357NIpt_MKCDn0g24z6I2fjmVge3d67nUJljM0_Lt0loPsnOh3kGQCLEepjcMwgtza1vb2Na5mWJmTZAT-SX5gVlBDcVn9b8zClkMY7c0B1gYg8f9GsoN76t3rG5HfE5YEOFbg"
+       }
+      ]
+     },
+     {
+      "type": 4,
+      "name": "Go Ident",
+      "favorite": false,
+      "reprompt": 0,
+      "id": "5df2ba48-d2d1-45df-b7c3-7c539eec25ea",
+      "collectionIds": [],
+      "object": "item",
+      "fields": [],
+      "identity": {
+       "firstName": "Go",
+       "lastName": "Pher",
+       "address3": "x"
+      },
+      "passwordHistory": [],
+      "creationDate": "2026-10-15T08:34:21.201Z",
+      "revisionDate": "2026-10-15T08:34:21.201Z",
+      "attachments": []
+     },
+     {
+      "type": 1,
+      "name": "Go Login",
+      "favorite": true,
+      "reprompt": 0,
+      "id": "cddede3b-1782-4961-8b9a-d4a1f8ffc745",
+      "collectionIds": [
+       "a0c19d45-a156-4fa4-b0da-77f89749592b"
+      ],
+      "object": "item",
+      "organizationId": "14a866fa-048c-426c-af8e-804c44df05c6",
+      "folderId": "e8a040bb-82cc-463f-b9f9-caa2d0b35540",
+      "notes": "go notes",
+      "key": "2.+wnQYKh8qhMqaTxo8IJJGA==|qnt7fA9XFZXJnvQMpeeW3eJ7dJdhB07mNWPqiDK6I5oNGR3xthwTkNzlBvN2oRIIVZkU0j1pCgVLEygHXjjEfQfTCYWVEqrzUpphFGVjhJM=|wHiuUJc4nOWlMOr3ZvZEXLuXCMzFtEMDrKZ2mcAVsIU=",
+      "fields": [
+       {
+        "type": 1,
+        "name": "secret",
+        "value": "s2"
+       },
+       {
+        "type": 3,
+        "name": "lnk",
+        "linkedId": 100
+       }
+      ],
+      "login": {
+       "uris": [
+        {
+         "uri": "https://go.dev",
+         "match": 1
+        }
+       ],
+       "fido2Credentials": [],
+       "username": "gopher",
+       "password": "gopass2",
+       "totp": "otpauth://totp/x?secret=JBSWY3DPEHPK3PXP&digits=8",
+       "passwordRevisionDate": "2026-10-15T08:34:21.429Z"
+      },
+      "passwordHistory": [
+       {
+        "lastUsedDate": "2026-10-15T08:34:21.429Z",
+        "password": "secret: s1"
+       },
+       {
+        "lastUsedDate": "2026-10-15T08:34:21.429Z",
+        "password": "gopass1"
+       }
+      ],
+      "creationDate": "2026-10-15T08:34:21.139Z",
+      "revisionDate": "2026-10-15T08:35:12.768Z",
+      "attachments": []
+     },
+     {
+      "type": 2,
+      "name": "Go Note",
+      "favorite": false,
+      "reprompt": 1,
+      "id": "8ba40b03-6e70-49fa-b483-88b1fb10de69",
+      "collectionIds": [],
+      "object": "item",
+      "notes": "n",
+      "fields": [],
+      "secureNote": {
+       "type": 0
+      },
+      "passwordHistory": [],
+      "creationDate": "2026-10-15T08:34:21.234Z",
+      "revisionDate": "2026-10-15T08:35:12.959Z",
+      "attachments": []
+     },
+     {
+      "type": 1,
+      "name": "Go Org Login",
+      "favorite": false,
+      "reprompt": 0,
+      "id": "1d885659-6088-4aed-9616-0d902c4532c9",
+      "collectionIds": [
+       "6da492b0-41cd-45b6-82e3-40ccfeb2da20",
+       "a0c19d45-a156-4fa4-b0da-77f89749592b"
+      ],
+      "object": "item",
+      "organizationId": "14a866fa-048c-426c-af8e-804c44df05c6",
+      "fields": [],
+      "login": {
+       "uris": [],
+       "fido2Credentials": [],
+       "username": "o",
+       "password": "op",
+       "passwordRevisionDate": null
+      },
+      "passwordHistory": [],
+      "creationDate": "2026-10-15T08:34:21.269Z",
+      "revisionDate": "2026-10-15T08:34:21.270Z",
+      "attachments": []
+     },
+     {
+      "type": 4,
+      "name": "Me Identity",
+      "favorite": false,
+      "reprompt": 0,
+      "id": "a89c8f76-a567-437f-87a7-1b00c1fcb61f",
+      "collectionIds": [],
+      "object": "item",
+      "fields": [],
+      "identity": {
+       "title": "Mr",
+       "firstName": "John",
+       "lastName": "Doe",
+       "email": "j@d.com",
+       "ssn": "000"
+      },
+      "passwordHistory": [],
+      "creationDate": "2026-10-15T08:29:31.563Z",
+      "revisionDate": "2026-10-15T08:29:31.563Z",
+      "attachments": []
+     },
+     {
+      "type": 2,
+      "name": "Secret Note",
+      "favorite": false,
+      "reprompt": 0,
+      "id": "be1b3742-3e4e-483a-a1b0-6ec40cc08c33",
+      "collectionIds": [],
+      "object": "item",
+      "notes": "line1\nline2 ünï",
+      "fields": [],
+      "secureNote": {
+       "type": 0
+      },
+      "passwordHistory": [],
+      "creationDate": "2026-10-15T08:29:31.696Z",
+      "revisionDate": "2026-10-15T08:29:31.696Z",
+      "attachments": []
+     },
+     {
+      "type": 5,
+      "name": "SSH",
+      "favorite": false,
+      "reprompt": 0,
+      "id": "d45ba584-247a-4f48-b20a-be186e8cc2e5",
+      "collectionIds": [],
+      "object": "item",
+      "fields": [],
+      "sshKey": {
+       "privateKey": "-----BEGIN OPENSSH PRIVATE KEY-----\nabc\n-----END OPENSSH PRIVATE KEY-----",
+       "publicKey": "ssh-ed25519 AAAA test",
+       "keyFingerprint": "SHA256:xyz"
+      },
+      "passwordHistory": [],
+      "creationDate": "2026-10-15T08:30:02.279Z",
+      "revisionDate": "2026-10-15T08:30:02.279Z",
+      "attachments": []
+     },
+     {
+      "type": 3,
+      "name": "Visa Card",
+      "favorite": false,
+      "reprompt": 0,
+      "id": "1e69773f-7b75-46a1-bc45-b1cc39a79391",
+      "collectionIds": [],
+      "object": "item",
+      "fields": [],
+      "card": {
+       "cardholderName": "John Doe",
+       "brand": "Visa",
+       "number": "4242424242424242",
+       "expMonth": "04",
+       "expYear": "2030",
+       "code": "123"
+      },
+      "passwordHistory": [],
+      "creationDate": "2026-10-15T08:29:31.433Z",
+      "revisionDate": "2026-10-15T08:29:31.433Z",
+      "attachments": []
+     }
+    ]
+   }
+  }
+ },
+ "list-trash": {
+  "path": "/list/object/items?trash",
+  "response": {
+   "success": true,
+   "data": {
+    "object": "list",
+    "data": [
+     {
+      "type": 1,
+      "name": "Trash Me",
+      "favorite": false,
+      "reprompt": 0,
+      "id": "829738e7-29c8-429e-b132-7df7de7f54ee",
+      "collectionIds": [],
+      "object": "item",
+      "fields": [],
+      "login": {
+       "uris": [],
+       "fido2Credentials": [],
+       "username": "t",
+       "password": "t",
+       "passwordRevisionDate": null
+      },
+      "passwordHistory": [],
+      "creationDate": "2026-10-15T08:29:31.848Z",
+      "revisionDate": "2026-10-15T08:29:32.026Z",
+      "deletedDate": "2026-10-15T08:29:32.026Z",
+      "attachments": []
+     }
+    ]
+   }
+  }
+ },
+ "list-archived": {
+  "path": "/list/object/items?archived",
+  "response": {
+   "success": true,
+   "data": {
+    "object": "list",
+    "data": [
+     {
+      "type": 3,
+      "name": "Go Card",
+      "favorite": false,
+      "reprompt": 0,
+      "id": "f59750f0-ba53-425d-b7a8-7029ad69870d",
+      "collectionIds": [],
+      "object": "item",
+      "fields": [],
+      "card": {
+       "cardholderName": "G",
+       "number": "371449635398431",
+       "code": "1234"
+      },
+      "passwordHistory": [],
+      "creationDate": "2026-10-15T08:34:21.169Z",
+      "revisionDate": "2026-10-15T08:34:21.169Z",
+      "archivedDate": "2026-10-15T08:35:13.018Z",
+      "attachments": []
+     }
+    ]
+   }
+  }
+ },
+ "list-folders": {
+  "path": "/list/object/folders",
+  "response": {
+   "success": true,
+   "data": {
+    "object": "list",
+    "data": [
+     {
+      "name": "Go Folder Renamed",
+      "object": "folder",
+      "id": "e8a040bb-82cc-463f-b9f9-caa2d0b35540"
+     },
+     {
+      "name": "Work Ünïcode",
+      "object": "folder",
+      "id": "b8a385df-e45d-4fc5-b86e-e009fe719b42"
+     },
+     {
+      "name": "No Folder",
+      "object": "folder",
+      "id": ""
+     }
+    ]
+   }
+  }
+ },
+ "list-collections": {
+  "path": "/list/object/collections",
+  "response": {
+   "success": true,
+   "data": {
+    "object": "list",
+    "data": [
+     {
+      "object": "collection",
+      "id": "6da492b0-41cd-45b6-82e3-40ccfeb2da20",
+      "organizationId": "14a866fa-048c-426c-af8e-804c44df05c6",
+      "name": "Go Collection 2"
+     },
+     {
+      "object": "collection",
+      "id": "a0c19d45-a156-4fa4-b0da-77f89749592b",
+      "organizationId": "14a866fa-048c-426c-af8e-804c44df05c6",
+      "name": "Shared Collection"
+     }
+    ]
+   }
+  }
+ },
+ "list-orgs": {
+  "path": "/list/object/organizations",
+  "response": {
+   "success": true,
+   "data": {
+    "object": "list",
+    "data": [
+     {
+      "object": "organization",
+      "id": "14a866fa-048c-426c-af8e-804c44df05c6",
+      "name": "Test Org",
+      "status": 2,
+      "type": 0,
+      "enabled": true
+     }
+    ]
+   }
+  }
+ },
+ "item-gl": {
+  "path": "/object/item/cddede3b-1782-4961-8b9a-d4a1f8ffc745",
+  "response": {
+   "success": true,
+   "data": {
+    "type": 1,
+    "name": "Go Login",
+    "favorite": true,
+    "reprompt": 0,
+    "id": "cddede3b-1782-4961-8b9a-d4a1f8ffc745",
+    "collectionIds": [
+     "a0c19d45-a156-4fa4-b0da-77f89749592b"
+    ],
+    "object": "item",
+    "organizationId": "14a866fa-048c-426c-af8e-804c44df05c6",
+    "folderId": "e8a040bb-82cc-463f-b9f9-caa2d0b35540",
+    "notes": "go notes",
+    "key": "2.+wnQYKh8qhMqaTxo8IJJGA==|qnt7fA9XFZXJnvQMpeeW3eJ7dJdhB07mNWPqiDK6I5oNGR3xthwTkNzlBvN2oRIIVZkU0j1pCgVLEygHXjjEfQfTCYWVEqrzUpphFGVjhJM=|wHiuUJc4nOWlMOr3ZvZEXLuXCMzFtEMDrKZ2mcAVsIU=",
+    "fields": [
+     {
+      "type": 1,
+      "name": "secret",
+      "value": "s2"
+     },
+     {
+      "type": 3,
+      "name": "lnk",
+      "linkedId": 100
+     }
+    ],
+    "login": {
+     "uris": [
+      {
+       "uri": "https://go.dev",
+       "match": 1
+      }
+     ],
+     "fido2Credentials": [],
+     "username": "gopher",
+     "password": "gopass2",
+     "totp": "otpauth://totp/x?secret=JBSWY3DPEHPK3PXP&digits=8",
+     "passwordRevisionDate": "2026-10-15T08:34:21.429Z"
+    },
+    "passwordHistory": [
+     {
+      "lastUsedDate": "2026-10-15T08:34:21.429Z",
+      "password": "secret: s1"
+     },
+     {
+      "lastUsedDate": "2026-10-15T08:34:21.429Z",
+      "password": "gopass1"
+     }
+    ],
+    "creationDate": "2026-10-15T08:34:21.139Z",
+    "revisionDate": "2026-10-15T08:35:12.768Z",
+    "attachments": []
+   }
+  }
+ },
+ "item-l1": {
+  "path": "/object/item/7ef9bcff-93f8-4962-8e57-b677c36014ba",
+  "response": {
+   "success": true,
+   "data": {
+    "type": 1,
+    "name": "GitHub",
+    "favorite": true,
+    "reprompt": 0,
+    "id": "7ef9bcff-93f8-4962-8e57-b677c36014ba",
+    "collectionIds": [],
+    "object": "item",
+    "folderId": "b8a385df-e45d-4fc5-b86e-e009fe719b42",
+    "notes": "my notes & <stuff>",
+    "fields": [
+     {
+      "type": 1,
+      "name": "api",
+      "value": "k2"
+     },
+     {
+      "type": 0,
+      "name": "txt",
+      "value": "plain"
+     },
+     {
+      "type": 2,
+      "name": "flag",
+      "value": "true"
+     }
+    ],
+    "login": {
+     "uris": [
+      {
+       "uri": "https://github.com/login"
+      },
+      {
+       "uri": "https://gist.github.com",
+       "match": 3
+      }
+     ],
+     "fido2Credentials": [],
+     "username": "octocat",
+     "password": "newpass1",
+     "totp": "JBSWY3DPEHPK3PXP",
+     "passwordRevisionDate": "2026-10-15T08:29:32.237Z"
+    },
+    "passwordHistory": [
+     {
+      "lastUsedDate": "2026-10-15T08:29:32.237Z",
+      "password": "api: k1"
+     },
+     {
+      "lastUsedDate": "2026-10-15T08:29:32.237Z",
+      "password": "p@ss&word<1>"
+     }
+    ],
+    "creationDate": "2026-10-15T08:29:31.286Z",
+    "revisionDate": "2026-10-15T08:29:32.240Z",
+    "attachments": [
+     {
+      "id": "47fdc525fe5c88cbd675",
+      "fileName": "att.txt",
+      "size": "81",
+      "sizeName": "81.00 bytes",
+      "url": "https://vw-tls/attachments/7ef9bcff-93f8-4962-8e57-b677c36014ba/47fdc525fe5c88cbd675?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJuYmYiOjE3OTIwNTM1MzMsImV4cCI6MTc5MjA1MzU5MywiaXNzIjoiaHR0cDovL2xvY2FsaG9zdHxmaWxlX2Rvd25sb2FkIiwic3ViIjoiN2VmOWJjZmYtOTNmOC00OTYyLThlNTctYjY3N2MzNjAxNGJhIiwiZmlsZV9pZCI6IjQ3ZmRjNTI1ZmU1Yzg4Y2JkNjc1In0.VNQ03KC5vt8W78aerAOwJD_FH6W3Sv3imAGN84pVtDlVe3oOgkeCVz3vWzV73e5yfHwes-drn94uLiyItmUhzxnn1LPIxGzne62GddkH9bPuKtlZ3eEvaDGABWFT-Hc-x0pJf5ddUfRZr881g2LTHPsGbJ3qMjM_fj8WkiW46EYBvcNlGJV2GFlls14lzBx42NtjdFx1SytV3f7-357NIpt_MKCDn0g24z6I2fjmVge3d67nUJljM0_Lt0loPsnOh3kGQCLEepjcMwgtza1vb2Na5mWJmTZAT-SX5gVlBDcVn9b8zClkMY7c0B1gYg8f9GsoN76t3rG5HfE5YEOFbg"
+     }
+    ]
+   }
+  }
+ },
+ "search": {
+  "path": "/list/object/items?search=go",
+  "response": {
+   "success": true,
+   "data": {
+    "object": "list",
+    "data": [
+     {
+      "type": 4,
+      "name": "Go Ident",
+      "favorite": false,
+      "reprompt": 0,
+      "id": "5df2ba48-d2d1-45df-b7c3-7c539eec25ea",
+      "collectionIds": [],
+      "object": "item",
+      "fields": [],
+      "identity": {
+       "firstName": "Go",
+       "lastName": "Pher",
+       "address3": "x"
+      },
+      "passwordHistory": [],
+      "creationDate": "2026-10-15T08:34:21.201Z",
+      "revisionDate": "2026-10-15T08:34:21.201Z",
+      "attachments": []
+     },
+     {
+      "type": 1,
+      "name": "Go Login",
+      "favorite": true,
+      "reprompt": 0,
+      "id": "cddede3b-1782-4961-8b9a-d4a1f8ffc745",
+      "collectionIds": [
+       "a0c19d45-a156-4fa4-b0da-77f89749592b"
+      ],
+      "object": "item",
+      "organizationId": "14a866fa-048c-426c-af8e-804c44df05c6",
+      "folderId": "e8a040bb-82cc-463f-b9f9-caa2d0b35540",
+      "notes": "go notes",
+      "key": "2.+wnQYKh8qhMqaTxo8IJJGA==|qnt7fA9XFZXJnvQMpeeW3eJ7dJdhB07mNWPqiDK6I5oNGR3xthwTkNzlBvN2oRIIVZkU0j1pCgVLEygHXjjEfQfTCYWVEqrzUpphFGVjhJM=|wHiuUJc4nOWlMOr3ZvZEXLuXCMzFtEMDrKZ2mcAVsIU=",
+      "fields": [
+       {
+        "type": 1,
+        "name": "secret",
+        "value": "s2"
+       },
+       {
+        "type": 3,
+        "name": "lnk",
+        "linkedId": 100
+       }
+      ],
+      "login": {
+       "uris": [
+        {
+         "uri": "https://go.dev",
+         "match": 1
+        }
+       ],
+       "fido2Credentials": [],
+       "username": "gopher",
+       "password": "gopass2",
+       "totp": "otpauth://totp/x?secret=JBSWY3DPEHPK3PXP&digits=8",
+       "passwordRevisionDate": "2026-10-15T08:34:21.429Z"
+      },
+      "passwordHistory": [
+       {
+        "lastUsedDate": "2026-10-15T08:34:21.429Z",
+        "password": "secret: s1"
+       },
+       {
+        "lastUsedDate": "2026-10-15T08:34:21.429Z",
+        "password": "gopass1"
+       }
+      ],
+      "creationDate": "2026-10-15T08:34:21.139Z",
+      "revisionDate": "2026-10-15T08:35:12.768Z",
+      "attachments": []
+     },
+     {
+      "type": 2,
+      "name": "Go Note",
+      "favorite": false,
+      "reprompt": 1,
+      "id": "8ba40b03-6e70-49fa-b483-88b1fb10de69",
+      "collectionIds": [],
+      "object": "item",
+      "notes": "n",
+      "fields": [],
+      "secureNote": {
+       "type": 0
+      },
+      "passwordHistory": [],
+      "creationDate": "2026-10-15T08:34:21.234Z",
+      "revisionDate": "2026-10-15T08:35:12.959Z",
+      "attachments": []
+     },
+     {
+      "type": 1,
+      "name": "Go Org Login",
+      "favorite": false,
+      "reprompt": 0,
+      "id": "1d885659-6088-4aed-9616-0d902c4532c9",
+      "collectionIds": [
+       "6da492b0-41cd-45b6-82e3-40ccfeb2da20",
+       "a0c19d45-a156-4fa4-b0da-77f89749592b"
+      ],
+      "object": "item",
+      "organizationId": "14a866fa-048c-426c-af8e-804c44df05c6",
+      "fields": [],
+      "login": {
+       "uris": [],
+       "fido2Credentials": [],
+       "username": "o",
+       "password": "op",
+       "passwordRevisionDate": null
+      },
+      "passwordHistory": [],
+      "creationDate": "2026-10-15T08:34:21.269Z",
+      "revisionDate": "2026-10-15T08:34:21.270Z",
+      "attachments": []
+     }
+    ]
+   }
+  }
+ },
+ "fingerprint": {
+  "path": "/object/fingerprint/me",
+  "response": {
+   "success": true,
+   "data": {
+    "object": "string",
+    "data": "ladylike-donator-prolonged-untrained-impotency"
+   }
+  }
+ },
+ "send": {
+  "path": "/object/send/88e9b169-607f-4b43-bfcb-99ac24eda860",
+  "response": {
+   "success": true,
+   "data": {
+    "object": "send",
+    "id": "88e9b169-607f-4b43-bfcb-99ac24eda860",
+    "accessId": "iOmxaWB_S0O_y5msJO2oYA",
+    "accessUrl": "https://vw-tls/#/send/iOmxaWB_S0O_y5msJO2oYA/VR7aL4Kr7J31QBHaG6BCWA",
+    "name": "Go Send Edited",
+    "notes": "sn",
+    "key": "VR7aL4Kr7J31QBHaG6BCWA==",
+    "type": 0,
+    "maxAccessCount": 3,
+    "accessCount": 0,
+    "revisionDate": "2026-10-15T08:35:13.139Z",
+    "deletionDate": "2026-10-25T08:34:30.000Z",
+    "expirationDate": null,
+    "passwordSet": false,
+    "emails": [],
+    "disabled": false,
+    "hideEmail": false,
+    "authType": 2,
+    "text": {
+     "text": "edited",
+     "hidden": true
+    }
+   }
+  }
+ },
+ "template-item": {
+  "path": "/object/template/item",
+  "response": {
+   "success": true,
+   "data": {
+    "object": "template",
+    "template": {
+     "type": 1,
+     "name": "Item name",
+     "favorite": false,
+     "reprompt": 0,
+     "notes": "Some notes about this item.",
+     "fields": [],
+     "passwordHistory": []
+    }
+   }
+  }
+ }
+}

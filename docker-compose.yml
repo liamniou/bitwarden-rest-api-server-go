@@ -1,0 +1,18 @@
+services:
+  bitwarden-api:
+    image: ghcr.io/liamniou/bitwarden-rest-api-server-go:latest
+    # Specify sensitive environment variables in a .env file
+    environment:
+      - BW_HOST=${BW_HOST:-https://vault.bitwarden.com}
+      - BW_CLIENTID=${BW_CLIENTID:?error}
+      - BW_CLIENTSECRET=${BW_CLIENTSECRET:?error}
+      - BW_PASSWORD=${BW_PASSWORD:?error}
+    ports:
+      - "8087:8087"
+    restart: unless-stopped
+    init: true
+    read_only: true
+    cap_drop:
+      - ALL
+    tmpfs:
+      - /data:uid=65532,gid=65532,mode=755
