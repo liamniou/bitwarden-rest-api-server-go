@@ -1,6 +1,6 @@
 services:
   bitwarden-api:
-    image: ghcr.io/liamniou/bitwarden-rest-api-server-go:latest
+    image: ghcr.io/liamniou/bitwarden-rest-api-server-go:1.0.0
     # Specify sensitive environment variables in a .env file
     environment:
       - BW_HOST=${BW_HOST:-https://vault.bitwarden.com}
