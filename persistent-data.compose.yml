@@ -8,7 +8,7 @@ services:
         condition: "service_completed_successfully"
 
   set_permissions:
-    image: busybox:latest
+    image: busybox:1.38.0
     command: sh -c "chown -R 65532:65532 /data"
     volumes:
       - data:/data
